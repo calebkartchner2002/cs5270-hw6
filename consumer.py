@@ -47,9 +47,9 @@ def run(
             if t in ("create", "widgetcreaterequest"):
                 store.create(req)
             elif t in ("update", "widgetupdaterequest", "delete", "widgetdeleterequest"):
-                logger.warning(f"{req.type} not implemented in HW6; skipping requestId={req.requestId}")
+                logger.warning(f"{req.type} not implemented, skipping requestId={req.requestId}")
             else:
-                logger.warning(f"Unknown request type {req.type}; skipping requestId={req.requestId}")
+                logger.warning(f"Unknown request type {req.type}, skipping requestId={req.requestId}")
     except KeyboardInterrupt:
         logger.info("Shutting down (Ctrl-C)")
 
