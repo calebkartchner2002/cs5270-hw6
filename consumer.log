@@ -1,0 +1,14 @@
+[2025-10-18 20:35:07,283] INFO hw6-consumer - PutItem widgetId=w1 owner=Alice into widgets
+[2025-10-18 20:35:07,845] ERROR hw6-consumer - Failed to parse request: Schema validation failed: 'create' does not match 'WidgetCreateRequest|WidgetDeleteRequest|WidgetUpdateRequest' at path $.type
+[2025-10-18 20:42:55,791] INFO hw6-consumer - PutItem widgetId=w1 owner=Alice into widgets
+[2025-10-18 20:42:56,281] ERROR hw6-consumer - Failed to parse request: Schema validation failed: None is not of type 'string' at path $.description
+[2025-10-18 20:49:54,322] INFO hw6-consumer - PutItem widgetId=w1 owner=Alice into widgets
+[2025-10-18 20:49:54,823] ERROR hw6-consumer - Failed to parse request: 'WidgetRequest' object has no attribute 'validate_against_schema'
+[2025-10-18 20:52:24,543] INFO hw6-consumer - PutItem widgetId=w1 owner=Alice into widgets
+[2025-10-18 20:52:25,210] ERROR hw6-consumer - Failed to parse request: 'WidgetRequest' object has no attribute 'validate_against_schema'
+[2025-10-18 20:53:26,967] INFO hw6-consumer - PutItem widgetId=w1 owner=Alice into widgets
+[2025-10-18 20:53:27,537] INFO hw6-consumer - Consumed request key=0001.json requestId=r1
+[2025-10-18 20:53:27,541] INFO hw6-consumer - Wrote widget to s3://bucket-3-website/widgets/alice-smith/w1
+[2025-10-19 13:03:53,994] INFO hw6-consumer - PutItem widgetId=w1 owner=Alice into widgets
+[2025-10-19 13:03:54,632] INFO hw6-consumer - Consumed request key=0001.json requestId=r1
+[2025-10-19 13:03:54,637] INFO hw6-consumer - Wrote widget to s3://bucket-3-website/widgets/alice-smith/w1
