@@ -1,0 +1,572 @@
+[2025-10-19 22:10:48,255] INFO hw6-consumer - Starting HW6 consumer
+[2025-10-19 22:10:48,256] INFO hw6-consumer - backend=s3 requests_bucket=usu-cs5270-sky-requests widgets_bucket=usu-cs5270-sky-web widgets_table=None
+[2025-10-19 22:10:49,070] INFO hw6-consumer - Consumed request key=1760926184872 requestId=ca8146b6-8546-48ef-b9ee-3c7b4504a84d
+[2025-10-19 22:10:49,245] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/ac2cd2f6-f5f1-46ac-9a69-e623ff80df63
+[2025-10-19 22:10:49,328] INFO hw6-consumer - Consumed request key=1760926185510 requestId=cd9415ab-e78a-4312-a791-93a3ec5d8992
+[2025-10-19 22:10:49,379] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/107eb7cd-6260-4328-a8ab-7565c8f30b9d
+[2025-10-19 22:10:49,462] INFO hw6-consumer - Consumed request key=1760926185616 requestId=2ddde407-4e7b-4a3a-b5d8-a8d73d37b069
+[2025-10-19 22:10:49,504] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/a175255b-e93d-4582-bcaf-d97a6daa46cc
+[2025-10-19 22:10:49,592] INFO hw6-consumer - Consumed request key=1760926185679 requestId=5cb23f30-e726-4327-800e-366a784543db
+[2025-10-19 22:10:49,636] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/bf973ed5-93e0-4471-bdd9-ae079d727d50
+[2025-10-19 22:10:49,725] INFO hw6-consumer - Consumed request key=1760926185741 requestId=58ab06b5-4247-4ec8-a6cf-22493621a773
+[2025-10-19 22:10:49,770] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/25b53ed2-81ce-411a-8ee3-92530cb1e9b6
+[2025-10-19 22:10:49,859] INFO hw6-consumer - Consumed request key=1760926185792 requestId=9beea6be-fd00-424e-b227-66605bd87a53
+[2025-10-19 22:10:49,918] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/cf626adb-5f00-45a6-9fb9-fbcd8c231db9
+[2025-10-19 22:10:50,025] INFO hw6-consumer - Consumed request key=1760926185851 requestId=456ac0a1-236b-4987-83ff-9e565f004807
+[2025-10-19 22:10:50,076] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/f7f9d759-f6b6-445f-889c-071676c697f7
+[2025-10-19 22:10:50,150] INFO hw6-consumer - Consumed request key=1760926185919 requestId=691784a7-892d-4be9-bf94-fb0a8f28e65a
+[2025-10-19 22:10:50,150] WARNING hw6-consumer - delete not implemented, skipping requestId=691784a7-892d-4be9-bf94-fb0a8f28e65a
+[2025-10-19 22:10:50,244] INFO hw6-consumer - Consumed request key=1760926186075 requestId=3d22ba30-cd91-412e-801f-8af9d7cde1c8
+[2025-10-19 22:10:50,290] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/dc97559a-2a47-4503-be03-c226bae0097a
+[2025-10-19 22:10:50,380] INFO hw6-consumer - Consumed request key=1760926186134 requestId=1d24355b-ed37-46ac-be42-4f13958f569b
+[2025-10-19 22:10:50,381] WARNING hw6-consumer - update not implemented, skipping requestId=1d24355b-ed37-46ac-be42-4f13958f569b
+[2025-10-19 22:10:50,460] INFO hw6-consumer - Consumed request key=1760926186301 requestId=e76363d3-7351-469f-8130-36862207ec3a
+[2025-10-19 22:10:50,514] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/46608379-138b-4dc0-8a4b-096f02aa4c26
+[2025-10-19 22:10:50,594] INFO hw6-consumer - Consumed request key=1760926186359 requestId=f9ab306f-521f-4608-8c92-166a07d35136
+[2025-10-19 22:10:50,594] WARNING hw6-consumer - delete not implemented, skipping requestId=f9ab306f-521f-4608-8c92-166a07d35136
+[2025-10-19 22:10:50,681] INFO hw6-consumer - Consumed request key=1760926186514 requestId=f2f6bc83-6158-45fb-9653-52cb1b315244
+[2025-10-19 22:10:50,681] WARNING hw6-consumer - update not implemented, skipping requestId=f2f6bc83-6158-45fb-9653-52cb1b315244
+[2025-10-19 22:10:50,798] INFO hw6-consumer - Consumed request key=1760926186679 requestId=9ffeed2f-0feb-4b1e-802b-fb2eba7804e5
+[2025-10-19 22:10:50,847] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/a361d21a-5112-4f26-a685-c9b366f105ac
+[2025-10-19 22:10:50,933] INFO hw6-consumer - Consumed request key=1760926186736 requestId=edf3bb1b-8132-4f7d-8ed6-af4577a346ed
+[2025-10-19 22:10:50,934] WARNING hw6-consumer - update not implemented, skipping requestId=edf3bb1b-8132-4f7d-8ed6-af4577a346ed
+[2025-10-19 22:10:51,017] INFO hw6-consumer - Consumed request key=1760926186898 requestId=9142a6f6-b365-4560-a233-e5cc1201f278
+[2025-10-19 22:10:51,018] WARNING hw6-consumer - update not implemented, skipping requestId=9142a6f6-b365-4560-a233-e5cc1201f278
+[2025-10-19 22:10:51,092] INFO hw6-consumer - Consumed request key=1760926187054 requestId=5e50758d-c783-46e4-b049-ccb2b4d576ae
+[2025-10-19 22:10:51,092] WARNING hw6-consumer - delete not implemented, skipping requestId=5e50758d-c783-46e4-b049-ccb2b4d576ae
+[2025-10-19 22:10:51,167] INFO hw6-consumer - Consumed request key=1760926187238 requestId=bca1b15a-2157-4121-82b7-ea187cb4d3cc
+[2025-10-19 22:10:51,168] WARNING hw6-consumer - update not implemented, skipping requestId=bca1b15a-2157-4121-82b7-ea187cb4d3cc
+[2025-10-19 22:10:51,248] INFO hw6-consumer - Consumed request key=1760926187403 requestId=df63897b-0783-4aac-8a6f-59f4878f0803
+[2025-10-19 22:10:51,297] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/0801cb76-a52a-4d87-a7e7-98b92fb970ea
+[2025-10-19 22:10:51,379] INFO hw6-consumer - Consumed request key=1760926187497 requestId=4a328190-64d6-4693-8abf-8e01bc4f2b3b
+[2025-10-19 22:10:51,423] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/a8888189-9205-495e-bc60-05f43dccd7c1
+[2025-10-19 22:10:51,511] INFO hw6-consumer - Consumed request key=1760926187559 requestId=361fa543-062c-48fe-a61f-dc0ec30914b6
+[2025-10-19 22:10:51,512] WARNING hw6-consumer - update not implemented, skipping requestId=361fa543-062c-48fe-a61f-dc0ec30914b6
+[2025-10-19 22:10:51,600] INFO hw6-consumer - Consumed request key=1760926187712 requestId=cfbf26f3-7615-4953-9492-23e5e2a98e05
+[2025-10-19 22:10:51,600] WARNING hw6-consumer - update not implemented, skipping requestId=cfbf26f3-7615-4953-9492-23e5e2a98e05
+[2025-10-19 22:10:51,706] INFO hw6-consumer - Consumed request key=1760926187872 requestId=9e0eb5be-09f2-4888-a961-4b8e31f67952
+[2025-10-19 22:10:51,707] WARNING hw6-consumer - update not implemented, skipping requestId=9e0eb5be-09f2-4888-a961-4b8e31f67952
+[2025-10-19 22:10:51,799] INFO hw6-consumer - Consumed request key=1760926188027 requestId=26569b2f-7a9b-4629-b7b2-d59eecf2c1e1
+[2025-10-19 22:10:51,852] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/45cedcd6-122a-4781-a2d3-16f5c6fcd47d
+[2025-10-19 22:10:51,938] INFO hw6-consumer - Consumed request key=1760926188089 requestId=f88a18e2-7e46-45cc-b416-53d4661d4ba9
+[2025-10-19 22:10:51,984] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/11da6b17-af4f-4edb-b350-462c65d01f31
+[2025-10-19 22:10:52,069] INFO hw6-consumer - Consumed request key=1760926188144 requestId=f9415a80-3e51-40b2-8225-583d0347f66c
+[2025-10-19 22:10:52,117] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/6cfaf915-3836-4f42-8cd5-7e37b3f12532
+[2025-10-19 22:10:52,210] INFO hw6-consumer - Consumed request key=1760926188208 requestId=c5ddbfe3-c43f-4ba0-85bc-bba64843fafc
+[2025-10-19 22:10:52,211] WARNING hw6-consumer - update not implemented, skipping requestId=c5ddbfe3-c43f-4ba0-85bc-bba64843fafc
+[2025-10-19 22:10:52,359] INFO hw6-consumer - Consumed request key=1760926188364 requestId=c31f654b-b5fe-4b7a-a381-64e41a05819b
+[2025-10-19 22:10:52,360] WARNING hw6-consumer - update not implemented, skipping requestId=c31f654b-b5fe-4b7a-a381-64e41a05819b
+[2025-10-19 22:10:52,455] INFO hw6-consumer - Consumed request key=1760926188528 requestId=7a2fb3e2-545d-4587-ad4f-7f684e4c9c0a
+[2025-10-19 22:10:52,497] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/5b1e416d-423b-42bc-9b4b-dad5ee7652b4
+[2025-10-19 22:10:52,578] INFO hw6-consumer - Consumed request key=1760926188587 requestId=8e83db9d-7998-4e9c-9956-3f8c725097d4
+[2025-10-19 22:10:52,619] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/68eb2c0c-050a-4ff4-a6a1-e3705c34a935
+[2025-10-19 22:10:52,698] INFO hw6-consumer - Consumed request key=1760926188641 requestId=87b1f951-640e-40be-a2e7-c6353936f52f
+[2025-10-19 22:10:52,747] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/6244b602-280d-4379-aa01-fc944a731675
+[2025-10-19 22:10:52,829] INFO hw6-consumer - Consumed request key=1760926188703 requestId=d87be3fa-45cf-4474-9910-1641c6f068c5
+[2025-10-19 22:10:52,830] WARNING hw6-consumer - update not implemented, skipping requestId=d87be3fa-45cf-4474-9910-1641c6f068c5
+[2025-10-19 22:10:52,906] INFO hw6-consumer - Consumed request key=1760926188884 requestId=1b98f71e-102b-4421-88c9-490948a877b9
+[2025-10-19 22:10:52,950] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/1d34198f-8f67-4686-a45b-2a5bda32dd40
+[2025-10-19 22:10:53,145] INFO hw6-consumer - Consumed request key=1760926188957 requestId=a79287e7-f5c5-4352-851b-38f3bdb081b4
+[2025-10-19 22:10:53,194] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/e44722e5-8c46-4d1f-afd4-5ab8b4e7e704
+[2025-10-19 22:10:53,273] INFO hw6-consumer - Consumed request key=1760926189009 requestId=053ae08d-e7b3-4cde-96bf-044b38f093c5
+[2025-10-19 22:10:53,316] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/bc7dbf6d-9ddc-4048-b909-203608e35e6a
+[2025-10-19 22:10:53,398] INFO hw6-consumer - Consumed request key=1760926189067 requestId=81ba29ef-e498-4dc3-9e0c-9812c42404cd
+[2025-10-19 22:10:53,443] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/6515aae6-442f-4b35-bc84-ae24ee5ccd13
+[2025-10-19 22:10:53,526] INFO hw6-consumer - Consumed request key=1760926189126 requestId=6f86fc03-7a79-4926-9976-982e0d240e61
+[2025-10-19 22:10:53,526] WARNING hw6-consumer - update not implemented, skipping requestId=6f86fc03-7a79-4926-9976-982e0d240e61
+[2025-10-19 22:10:53,602] INFO hw6-consumer - Consumed request key=1760926189282 requestId=b53302f8-c73d-468d-bae0-a55a5ee26b56
+[2025-10-19 22:10:53,644] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/14160518-01f2-4a09-9f61-0a8c2df960a5
+[2025-10-19 22:10:53,751] INFO hw6-consumer - Consumed request key=1760926189336 requestId=01dc6746-7037-4eb3-acbc-6d8de5f6c02f
+[2025-10-19 22:10:53,797] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/c00f92b9-f568-442d-90ed-ee72c86f47a2
+[2025-10-19 22:10:53,899] INFO hw6-consumer - Consumed request key=1760926189389 requestId=dfd88989-d0d5-4e03-9259-bd2c93eadfd1
+[2025-10-19 22:10:53,951] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/0ad87bd4-cedd-4dc8-8699-6cb015fb9bf1
+[2025-10-19 22:10:54,069] INFO hw6-consumer - Consumed request key=1760926189443 requestId=7494dd41-656b-4378-a12b-4d3d9b64a7d6
+[2025-10-19 22:10:54,070] WARNING hw6-consumer - update not implemented, skipping requestId=7494dd41-656b-4378-a12b-4d3d9b64a7d6
+[2025-10-19 22:10:54,157] INFO hw6-consumer - Consumed request key=1760926189592 requestId=46eafea1-681e-4053-917e-19b084afed0f
+[2025-10-19 22:10:54,216] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/b928cebe-deea-41d9-a1b3-095a132ab609
+[2025-10-19 22:10:54,306] INFO hw6-consumer - Consumed request key=1760926189649 requestId=c6e48ca9-d604-460f-8509-bf1f9cb53fb9
+[2025-10-19 22:10:54,356] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/d687a159-2230-4ca5-ab40-eab1e4c14ef3
+[2025-10-19 22:10:54,444] INFO hw6-consumer - Consumed request key=1760926189718 requestId=2b748bdd-7cb0-4320-b4f9-3a73af9e4133
+[2025-10-19 22:10:54,444] WARNING hw6-consumer - update not implemented, skipping requestId=2b748bdd-7cb0-4320-b4f9-3a73af9e4133
+[2025-10-19 22:10:54,543] INFO hw6-consumer - Consumed request key=1760926189889 requestId=5407c381-56b1-4694-bdaf-1446dbd7750b
+[2025-10-19 22:10:54,544] WARNING hw6-consumer - update not implemented, skipping requestId=5407c381-56b1-4694-bdaf-1446dbd7750b
+[2025-10-19 22:10:54,627] INFO hw6-consumer - Consumed request key=1760926190046 requestId=86eb26e4-0631-456c-8e2a-4d0b2b4e66ed
+[2025-10-19 22:10:54,628] WARNING hw6-consumer - update not implemented, skipping requestId=86eb26e4-0631-456c-8e2a-4d0b2b4e66ed
+[2025-10-19 22:10:54,747] INFO hw6-consumer - Consumed request key=1760926190218 requestId=69ebf620-e9f5-48fe-88e1-a0b968bbeea0
+[2025-10-19 22:10:54,791] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/2ea4263a-78ce-49b2-ad9d-7bb7837b594a
+[2025-10-19 22:10:54,908] INFO hw6-consumer - Consumed request key=1760926190278 requestId=d15f3e67-40c4-402b-b937-e9dfdaceac98
+[2025-10-19 22:10:54,959] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/591f432a-4262-4b33-8554-0a8000597904
+[2025-10-19 22:10:55,068] INFO hw6-consumer - Consumed request key=1760926190328 requestId=40291d35-1dae-49a9-b2d6-a5255d775ef3
+[2025-10-19 22:10:55,112] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/6d7240e5-c3ba-4c06-b618-ebb66ab53340
+[2025-10-19 22:10:55,211] INFO hw6-consumer - Consumed request key=1760926190397 requestId=026f9a36-773b-4199-98fe-2d36e11ae384
+[2025-10-19 22:10:55,261] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/1c4e136c-20ea-409e-af2c-53bb95f2c896
+[2025-10-19 22:10:55,351] INFO hw6-consumer - Consumed request key=1760926190505 requestId=22089be2-14c8-44f9-9dbe-5b674c8b9d4a
+[2025-10-19 22:10:55,352] WARNING hw6-consumer - update not implemented, skipping requestId=22089be2-14c8-44f9-9dbe-5b674c8b9d4a
+[2025-10-19 22:10:55,434] INFO hw6-consumer - Consumed request key=1760926190667 requestId=41fc2e3a-5d90-4863-97be-d88efd7d117f
+[2025-10-19 22:10:55,434] WARNING hw6-consumer - update not implemented, skipping requestId=41fc2e3a-5d90-4863-97be-d88efd7d117f
+[2025-10-19 22:10:55,515] INFO hw6-consumer - Consumed request key=1760926190827 requestId=d237814a-c88f-4697-b6cd-97cf4c9c6bd4
+[2025-10-19 22:10:55,515] WARNING hw6-consumer - update not implemented, skipping requestId=d237814a-c88f-4697-b6cd-97cf4c9c6bd4
+[2025-10-19 22:10:55,607] INFO hw6-consumer - Consumed request key=1760926190999 requestId=daf7727d-96d0-4c96-b3a7-c93b49fc76f3
+[2025-10-19 22:10:55,653] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/e3915227-0d27-42c0-90a9-99d001f05ad9
+[2025-10-19 22:10:55,737] INFO hw6-consumer - Consumed request key=1760926191066 requestId=718b8d5e-50d6-4be9-a6e6-0f7022fd5cff
+[2025-10-19 22:10:55,737] WARNING hw6-consumer - update not implemented, skipping requestId=718b8d5e-50d6-4be9-a6e6-0f7022fd5cff
+[2025-10-19 22:10:55,820] INFO hw6-consumer - Consumed request key=1760926191213 requestId=f621fdbe-ff8e-459d-b2b1-1706b43f21b0
+[2025-10-19 22:10:55,820] WARNING hw6-consumer - update not implemented, skipping requestId=f621fdbe-ff8e-459d-b2b1-1706b43f21b0
+[2025-10-19 22:10:55,914] INFO hw6-consumer - Consumed request key=1760926191384 requestId=37095c0a-3e3f-4598-b7e6-e87ab38ce519
+[2025-10-19 22:10:55,963] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/c8e5902d-aecd-4925-989b-30703e43cea0
+[2025-10-19 22:10:56,047] INFO hw6-consumer - Consumed request key=1760926191438 requestId=faa8c3f3-0b92-457f-a934-4aa53f22f845
+[2025-10-19 22:10:56,048] WARNING hw6-consumer - update not implemented, skipping requestId=faa8c3f3-0b92-457f-a934-4aa53f22f845
+[2025-10-19 22:10:56,158] INFO hw6-consumer - Consumed request key=1760926191601 requestId=fba46876-dfd9-49a1-8e86-132efa404e7e
+[2025-10-19 22:10:56,158] WARNING hw6-consumer - update not implemented, skipping requestId=fba46876-dfd9-49a1-8e86-132efa404e7e
+[2025-10-19 22:10:56,264] INFO hw6-consumer - Consumed request key=1760926191753 requestId=daeda57a-b326-4666-9da3-258a0408af65
+[2025-10-19 22:10:56,306] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/dce49aa0-ee28-4fde-843c-2a9bc6ef1382
+[2025-10-19 22:10:56,413] INFO hw6-consumer - Consumed request key=1760926191808 requestId=944e4084-3db9-4a81-aa0c-8f15997b7cbd
+[2025-10-19 22:10:56,463] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/7fe6112f-0b04-4eda-b912-577c4a239ae8
+[2025-10-19 22:10:56,562] INFO hw6-consumer - Consumed request key=1760926191859 requestId=8d4e09c2-4f4d-49c2-b843-94b375e2d21f
+[2025-10-19 22:10:56,605] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/5a400282-38a5-405d-806d-044f6dd73800
+[2025-10-19 22:10:56,704] INFO hw6-consumer - Consumed request key=1760926192013 requestId=42f5a6fc-312d-4525-b183-1e8dcc949e83
+[2025-10-19 22:10:56,754] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/5dc9981b-6a3b-44f9-b06b-b765b3bffeb0
+[2025-10-19 22:10:56,837] INFO hw6-consumer - Consumed request key=1760926192178 requestId=da6e5cc7-e169-4692-af6a-6f0fe1730262
+[2025-10-19 22:10:56,838] WARNING hw6-consumer - delete not implemented, skipping requestId=da6e5cc7-e169-4692-af6a-6f0fe1730262
+[2025-10-19 22:10:56,922] INFO hw6-consumer - Consumed request key=1760926192412 requestId=87acc193-1737-4be8-a8f9-688b4daa1c31
+[2025-10-19 22:10:56,973] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/8c523d2b-16ea-465d-b917-027cb0a8cc97
+[2025-10-19 22:10:57,279] INFO hw6-consumer - Consumed request key=1760926192562 requestId=2ea8aad7-5b3b-4880-8263-add230330a69
+[2025-10-19 22:10:57,279] WARNING hw6-consumer - delete not implemented, skipping requestId=2ea8aad7-5b3b-4880-8263-add230330a69
+[2025-10-19 22:10:57,598] INFO hw6-consumer - Consumed request key=1760926192778 requestId=826b25e5-e451-41a2-adea-47ee030d2f76
+[2025-10-19 22:10:57,598] WARNING hw6-consumer - update not implemented, skipping requestId=826b25e5-e451-41a2-adea-47ee030d2f76
+[2025-10-19 22:10:57,731] INFO hw6-consumer - Consumed request key=1760926192970 requestId=36f299fe-6137-46ce-aebc-ca9b3653803b
+[2025-10-19 22:10:57,875] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/5d306fb8-e453-40e8-a956-c246a26e9508
+[2025-10-19 22:10:58,057] INFO hw6-consumer - Consumed request key=1760926193076 requestId=8f8a7705-912c-4e99-b522-9963be48bb93
+[2025-10-19 22:10:58,164] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/4b0c35c7-d2c5-4d16-9fd9-002e3daa04cc
+[2025-10-19 22:10:58,309] INFO hw6-consumer - Consumed request key=1760926193197 requestId=2d8d8c39-2408-42f2-afd7-91358eeea56c
+[2025-10-19 22:10:58,309] WARNING hw6-consumer - update not implemented, skipping requestId=2d8d8c39-2408-42f2-afd7-91358eeea56c
+[2025-10-19 22:10:58,393] INFO hw6-consumer - Consumed request key=1760926193374 requestId=526615ac-fb28-43dd-ada5-91550ec7e09f
+[2025-10-19 22:10:58,436] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/e87c7b66-4356-4317-9506-1824e884ae08
+[2025-10-19 22:10:58,515] INFO hw6-consumer - Consumed request key=1760926193425 requestId=3f340b01-6342-41f6-894d-cfb493b9152a
+[2025-10-19 22:10:58,515] WARNING hw6-consumer - update not implemented, skipping requestId=3f340b01-6342-41f6-894d-cfb493b9152a
+[2025-10-19 22:10:58,674] INFO hw6-consumer - Consumed request key=1760926193572 requestId=dacaa078-9eae-44e7-96f7-159186701cb7
+[2025-10-19 22:10:58,715] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/55171363-eff2-46cb-8452-c2cb49d8dee1
+[2025-10-19 22:10:58,792] INFO hw6-consumer - Consumed request key=1760926193645 requestId=87328875-7900-41c1-8975-b37ca03981db
+[2025-10-19 22:10:58,836] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/57d4cb95-b970-4d9b-918f-fbb7a50722f0
+[2025-10-19 22:10:58,927] INFO hw6-consumer - Consumed request key=1760926193696 requestId=4c1acd6a-2c16-4177-9395-e462cfbb410f
+[2025-10-19 22:10:58,973] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/7a202fba-ee07-4e95-882e-a40ab8b98796
+[2025-10-19 22:10:59,062] INFO hw6-consumer - Consumed request key=1760926193743 requestId=461d6730-b94a-494d-a4f1-c0946eae6f3f
+[2025-10-19 22:10:59,110] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/9b1cd9f7-b62c-4118-b0e6-e6514dc9ec70
+[2025-10-19 22:10:59,188] INFO hw6-consumer - Consumed request key=1760926193791 requestId=d43e6d40-80a5-4234-b5ce-c68194ef65f0
+[2025-10-19 22:10:59,188] WARNING hw6-consumer - update not implemented, skipping requestId=d43e6d40-80a5-4234-b5ce-c68194ef65f0
+[2025-10-19 22:10:59,262] INFO hw6-consumer - Consumed request key=1760926193941 requestId=0f7c4b09-e02d-4dd4-ad47-349cd0a36e92
+[2025-10-19 22:10:59,338] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/3a0dd7ed-01b7-4d39-84e9-afaebf309e89
+[2025-10-19 22:10:59,415] INFO hw6-consumer - Consumed request key=1760926194016 requestId=d8527e9d-780e-4b62-a2c3-3e6257e92e6e
+[2025-10-19 22:10:59,455] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/58b34b78-2c99-4805-b1cb-60fb28858f75
+[2025-10-19 22:10:59,530] INFO hw6-consumer - Consumed request key=1760926194068 requestId=7fe83b4e-f596-43fc-9576-7aaf5273c134
+[2025-10-19 22:10:59,577] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/72ba151f-786d-46ba-b0f4-7d1c4ed5854e
+[2025-10-19 22:10:59,653] INFO hw6-consumer - Consumed request key=1760926194116 requestId=af7da534-2f64-4edf-85dc-63bb312d19e1
+[2025-10-19 22:10:59,653] WARNING hw6-consumer - update not implemented, skipping requestId=af7da534-2f64-4edf-85dc-63bb312d19e1
+[2025-10-19 22:10:59,731] INFO hw6-consumer - Consumed request key=1760926194262 requestId=811fe3cc-53fd-4621-9931-34e4f11b09fe
+[2025-10-19 22:10:59,731] WARNING hw6-consumer - update not implemented, skipping requestId=811fe3cc-53fd-4621-9931-34e4f11b09fe
+[2025-10-19 22:10:59,807] INFO hw6-consumer - Consumed request key=1760926194421 requestId=d3a32af4-3eb5-49e6-899c-5a50f6f9a69d
+[2025-10-19 22:10:59,851] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/745b3f83-5a16-4d6c-a907-f390f6e54739
+[2025-10-19 22:10:59,944] INFO hw6-consumer - Consumed request key=1760926194474 requestId=18814a25-0fed-4376-bafd-47564cf020de
+[2025-10-19 22:10:59,944] WARNING hw6-consumer - update not implemented, skipping requestId=18814a25-0fed-4376-bafd-47564cf020de
+[2025-10-19 22:11:00,022] INFO hw6-consumer - Consumed request key=1760926194629 requestId=9ee9a4b9-4e7b-482e-9b37-fc90b34a147d
+[2025-10-19 22:11:00,022] WARNING hw6-consumer - update not implemented, skipping requestId=9ee9a4b9-4e7b-482e-9b37-fc90b34a147d
+[2025-10-19 22:11:00,099] INFO hw6-consumer - Consumed request key=1760926194787 requestId=044000c6-6bf1-4107-8fdc-818ffa3d9e58
+[2025-10-19 22:11:00,144] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/3f3077e8-87db-4061-809c-979252b7ccfd
+[2025-10-19 22:11:00,253] INFO hw6-consumer - Consumed request key=1760926194851 requestId=b1b193e5-72fd-4a62-9fe4-898b34eceb49
+[2025-10-19 22:11:00,296] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/eeb40b39-3064-4a80-a0a5-373490179211
+[2025-10-19 22:11:00,400] INFO hw6-consumer - Consumed request key=1760926194915 requestId=11cd7e41-04a1-4bbb-b316-6f004642d2dd
+[2025-10-19 22:11:00,449] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/7cd99cce-7f91-489f-a9da-42f993e153ef
+[2025-10-19 22:11:00,541] INFO hw6-consumer - Consumed request key=1760926194962 requestId=52765b93-4691-42a6-bfa5-df8d68eac4fe
+[2025-10-19 22:11:00,586] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/1a59c564-c628-469e-aa3f-ae7b5b6e09ba
+[2025-10-19 22:11:00,667] INFO hw6-consumer - Consumed request key=1760926195012 requestId=688b5afd-5000-4ea3-aef3-6dd8433e848d
+[2025-10-19 22:11:00,721] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/5ca026c7-8c9e-4b4b-8486-2a1cf11240c8
+[2025-10-19 22:11:00,810] INFO hw6-consumer - Consumed request key=1760926195061 requestId=db7e9acf-079b-45b7-b897-d3ba1f50cb2a
+[2025-10-19 22:11:00,810] WARNING hw6-consumer - update not implemented, skipping requestId=db7e9acf-079b-45b7-b897-d3ba1f50cb2a
+[2025-10-19 22:11:00,898] INFO hw6-consumer - Consumed request key=1760926195210 requestId=72374d44-71d0-4cc0-83f1-d37688343e22
+[2025-10-19 22:11:00,968] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/aeb9c401-7c51-4253-9861-14dbe1ea4f7d
+[2025-10-19 22:11:01,053] INFO hw6-consumer - Consumed request key=1760926195309 requestId=05f7dd00-548c-4474-8f9f-f4f8bc5a1b12
+[2025-10-19 22:11:01,101] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/46b42443-265b-409f-9bbf-7a317c5baa99
+[2025-10-19 22:11:01,188] INFO hw6-consumer - Consumed request key=1760926195395 requestId=3c801520-6b95-4d9e-a288-5c0c14d2b519
+[2025-10-19 22:11:01,189] WARNING hw6-consumer - update not implemented, skipping requestId=3c801520-6b95-4d9e-a288-5c0c14d2b519
+[2025-10-19 22:11:01,273] INFO hw6-consumer - Consumed request key=1760926195550 requestId=0dd955c2-0b99-4871-bee7-b6b7acdf4eb4
+[2025-10-19 22:11:01,332] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/636bf4f0-720d-4bb2-86f5-ff690439a3eb
+[2025-10-19 22:11:01,500] INFO hw6-consumer - Consumed request key=1760926195602 requestId=13301cfb-f5b0-41e5-9ff7-27f5d09fa9a1
+[2025-10-19 22:11:01,553] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/093acc59-d1c9-4ccd-acbf-6a92aa1cef3f
+[2025-10-19 22:11:01,646] INFO hw6-consumer - Consumed request key=1760926195658 requestId=4c17b7ac-fa25-4f06-b29f-f65104ccb26b
+[2025-10-19 22:11:01,692] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/1a7a4420-e303-4df4-b0c3-d6eb1bd0395c
+[2025-10-19 22:11:01,796] INFO hw6-consumer - Consumed request key=1760926195703 requestId=b7b025e3-4a7a-4bfc-a855-f5fe0c5a8265
+[2025-10-19 22:11:01,842] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/50aaf4fb-4536-4837-b392-8cf8f1577e0a
+[2025-10-19 22:11:01,932] INFO hw6-consumer - Consumed request key=1760926195748 requestId=0baf879f-3cd7-4d0a-8ec2-7dbcd8f0ea58
+[2025-10-19 22:11:01,974] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/c517a63c-4b99-4fe1-a6a4-a4e06ab548e3
+[2025-10-19 22:11:02,056] INFO hw6-consumer - Consumed request key=1760926195850 requestId=974bf31f-0bce-486d-935a-622425137c0b
+[2025-10-19 22:11:02,101] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/843c9d38-56d1-4684-a0ed-b2a14df93947
+[2025-10-19 22:11:02,289] INFO hw6-consumer - Consumed request key=1760926195908 requestId=d83e3cfb-9607-4d3d-84d9-3f251bc9f758
+[2025-10-19 22:11:02,349] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/92784e05-1a5a-4ec7-9dba-7dcd39267db5
+[2025-10-19 22:11:02,438] INFO hw6-consumer - Consumed request key=1760926196025 requestId=29072f8d-1a1f-478f-b553-55a4e833b6d8
+[2025-10-19 22:11:02,480] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/dc7ffa45-7cf0-4b81-908c-4dc60d86cdd1
+[2025-10-19 22:11:02,564] INFO hw6-consumer - Consumed request key=1760926196068 requestId=28d2f477-c370-4e22-8c90-9f3578a452bc
+[2025-10-19 22:11:02,565] WARNING hw6-consumer - update not implemented, skipping requestId=28d2f477-c370-4e22-8c90-9f3578a452bc
+[2025-10-19 22:11:02,652] INFO hw6-consumer - Consumed request key=1760926196218 requestId=f9fcc618-f27c-4c2f-918f-c00faaddee0c
+[2025-10-19 22:11:02,712] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/4741b978-8c61-48fc-9c70-2eef63e67ef7
+[2025-10-19 22:11:02,793] INFO hw6-consumer - Consumed request key=1760926196274 requestId=684833b3-dffc-45ab-8c32-974552b08a58
+[2025-10-19 22:11:02,793] WARNING hw6-consumer - update not implemented, skipping requestId=684833b3-dffc-45ab-8c32-974552b08a58
+[2025-10-19 22:11:02,864] INFO hw6-consumer - Consumed request key=1760926196421 requestId=3aee9ae0-b9fd-4c45-ad93-90b044111125
+[2025-10-19 22:11:02,865] WARNING hw6-consumer - delete not implemented, skipping requestId=3aee9ae0-b9fd-4c45-ad93-90b044111125
+[2025-10-19 22:11:02,946] INFO hw6-consumer - Consumed request key=1760926196569 requestId=1c13d667-d07d-4761-9582-1b7e5c68f251
+[2025-10-19 22:11:02,946] WARNING hw6-consumer - update not implemented, skipping requestId=1c13d667-d07d-4761-9582-1b7e5c68f251
+[2025-10-19 22:11:03,077] INFO hw6-consumer - Consumed request key=1760926196733 requestId=e8d006d6-2d65-4058-be03-4a9515ddbc45
+[2025-10-19 22:11:03,077] WARNING hw6-consumer - update not implemented, skipping requestId=e8d006d6-2d65-4058-be03-4a9515ddbc45
+[2025-10-19 22:11:03,197] INFO hw6-consumer - Consumed request key=1760926196888 requestId=83b4e270-4774-42a2-8baa-1721acbe379f
+[2025-10-19 22:11:03,249] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/4b6e24dc-ec45-4bc3-85b1-48ebc06a9b7c
+[2025-10-19 22:11:03,330] INFO hw6-consumer - Consumed request key=1760926196976 requestId=f402b067-242d-4877-b948-6fd95eb180c4
+[2025-10-19 22:11:03,374] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/9d00630f-bff7-407b-9f71-047abcf39148
+[2025-10-19 22:11:03,453] INFO hw6-consumer - Consumed request key=1760926197022 requestId=c3370fc3-607d-447b-8a78-66e5ac831e76
+[2025-10-19 22:11:03,520] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/66b127a7-1d0b-4f3c-be38-a744da168ddb
+[2025-10-19 22:11:03,893] INFO hw6-consumer - Consumed request key=1760926197076 requestId=11d4ba62-a929-41e9-a95c-ea00a2a7cfec
+[2025-10-19 22:11:03,939] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/a6da23be-183a-4842-81a4-384a36921d56
+[2025-10-19 22:11:04,036] INFO hw6-consumer - Consumed request key=1760926197122 requestId=113e2807-5fc3-4b49-a1b8-5fb8102c52a2
+[2025-10-19 22:11:04,037] WARNING hw6-consumer - update not implemented, skipping requestId=113e2807-5fc3-4b49-a1b8-5fb8102c52a2
+[2025-10-19 22:11:04,118] INFO hw6-consumer - Consumed request key=1760926197263 requestId=2b8b8583-fd73-4d41-8a0b-39c4afac27f8
+[2025-10-19 22:11:04,118] WARNING hw6-consumer - update not implemented, skipping requestId=2b8b8583-fd73-4d41-8a0b-39c4afac27f8
+[2025-10-19 22:11:04,205] INFO hw6-consumer - Consumed request key=1760926197413 requestId=a1123f2a-761b-404d-a9ca-b40089546c74
+[2025-10-19 22:11:04,246] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/b0da99f8-2025-4b6a-9f83-c8ebae571703
+[2025-10-19 22:11:04,342] INFO hw6-consumer - Consumed request key=1760926197467 requestId=442e1e3a-483f-4b25-b51d-fb764c73af14
+[2025-10-19 22:11:04,385] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/6c76f2e0-bb32-4b3d-bc53-95c74be28712
+[2025-10-19 22:11:04,477] INFO hw6-consumer - Consumed request key=1760926197512 requestId=f8c89222-6dcf-4e9f-8962-fd23c7e147e1
+[2025-10-19 22:11:04,477] WARNING hw6-consumer - update not implemented, skipping requestId=f8c89222-6dcf-4e9f-8962-fd23c7e147e1
+[2025-10-19 22:11:04,566] INFO hw6-consumer - Consumed request key=1760926197669 requestId=0ece4f19-3382-461e-a788-24b830d46ca7
+[2025-10-19 22:11:04,567] WARNING hw6-consumer - update not implemented, skipping requestId=0ece4f19-3382-461e-a788-24b830d46ca7
+[2025-10-19 22:11:04,640] INFO hw6-consumer - Consumed request key=1760926197816 requestId=68fafdff-8745-4d3c-a724-2b236e31fb86
+[2025-10-19 22:11:04,641] WARNING hw6-consumer - delete not implemented, skipping requestId=68fafdff-8745-4d3c-a724-2b236e31fb86
+[2025-10-19 22:11:04,723] INFO hw6-consumer - Consumed request key=1760926197961 requestId=dc5d418c-4133-4afe-904d-854230d77e59
+[2025-10-19 22:11:04,723] WARNING hw6-consumer - update not implemented, skipping requestId=dc5d418c-4133-4afe-904d-854230d77e59
+[2025-10-19 22:11:04,804] INFO hw6-consumer - Consumed request key=1760926198155 requestId=7c49cecb-f7e2-4017-92cc-d6c6e1143a5d
+[2025-10-19 22:11:04,804] WARNING hw6-consumer - update not implemented, skipping requestId=7c49cecb-f7e2-4017-92cc-d6c6e1143a5d
+[2025-10-19 22:11:05,024] INFO hw6-consumer - Consumed request key=1760926198306 requestId=7dd016b4-afac-448b-82ec-ba4735f4ea96
+[2025-10-19 22:11:05,024] WARNING hw6-consumer - update not implemented, skipping requestId=7dd016b4-afac-448b-82ec-ba4735f4ea96
+[2025-10-19 22:11:05,127] INFO hw6-consumer - Consumed request key=1760926198460 requestId=12b3b01d-a89f-4edd-a886-c45c83e9c798
+[2025-10-19 22:11:05,165] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/7cd53380-bbf2-48bc-876a-836ec179b3ee
+[2025-10-19 22:11:05,273] INFO hw6-consumer - Consumed request key=1760926198513 requestId=7c3b3a3e-7a1c-461e-904d-13b354fbc4f0
+[2025-10-19 22:11:05,318] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/7d891230-a79a-4d42-ac2c-6c18b175fb61
+[2025-10-19 22:11:05,414] INFO hw6-consumer - Consumed request key=1760926198563 requestId=d2bd263f-3ada-4e13-a5c8-85db17bfc2b8
+[2025-10-19 22:11:05,464] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/562c2e1d-409a-4b22-b8fd-0afa570f9c55
+[2025-10-19 22:11:05,567] INFO hw6-consumer - Consumed request key=1760926198645 requestId=5d0ffdb7-ec9c-4c25-bf85-2a40b48e8935
+[2025-10-19 22:11:05,567] WARNING hw6-consumer - update not implemented, skipping requestId=5d0ffdb7-ec9c-4c25-bf85-2a40b48e8935
+[2025-10-19 22:11:05,648] INFO hw6-consumer - Consumed request key=1760926198789 requestId=ea8830f1-fea8-4b9f-b2c0-a0b23ac2c7a5
+[2025-10-19 22:11:05,648] WARNING hw6-consumer - update not implemented, skipping requestId=ea8830f1-fea8-4b9f-b2c0-a0b23ac2c7a5
+[2025-10-19 22:11:05,721] INFO hw6-consumer - Consumed request key=1760926198946 requestId=09608607-827e-491c-806d-2443f00bd374
+[2025-10-19 22:11:05,722] WARNING hw6-consumer - update not implemented, skipping requestId=09608607-827e-491c-806d-2443f00bd374
+[2025-10-19 22:11:05,797] INFO hw6-consumer - Consumed request key=1760926199123 requestId=ed2c71c6-38b0-4630-8d46-c28842cc7ad3
+[2025-10-19 22:11:05,842] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/377d2dd5-dac5-48da-b969-1825630bfd2f
+[2025-10-19 22:11:05,922] INFO hw6-consumer - Consumed request key=1760926199220 requestId=a98a1379-33fb-475e-8578-cca4bb5a1808
+[2025-10-19 22:11:05,922] WARNING hw6-consumer - update not implemented, skipping requestId=a98a1379-33fb-475e-8578-cca4bb5a1808
+[2025-10-19 22:11:06,008] INFO hw6-consumer - Consumed request key=1760926199375 requestId=f69378c2-73ca-4975-8ede-131c5d72db7c
+[2025-10-19 22:11:06,008] WARNING hw6-consumer - delete not implemented, skipping requestId=f69378c2-73ca-4975-8ede-131c5d72db7c
+[2025-10-19 22:11:06,086] INFO hw6-consumer - Consumed request key=1760926199516 requestId=b2f75084-18a2-4a4d-973e-33738db52793
+[2025-10-19 22:11:06,086] WARNING hw6-consumer - update not implemented, skipping requestId=b2f75084-18a2-4a4d-973e-33738db52793
+[2025-10-19 22:11:06,161] INFO hw6-consumer - Consumed request key=1760926199662 requestId=25ecb425-3787-49e0-8d8a-ced93f6cb90b
+[2025-10-19 22:11:06,161] WARNING hw6-consumer - update not implemented, skipping requestId=25ecb425-3787-49e0-8d8a-ced93f6cb90b
+[2025-10-19 22:11:06,338] INFO hw6-consumer - Consumed request key=1760926199819 requestId=27e65403-889b-412e-aa77-ee4941306e9d
+[2025-10-19 22:11:06,338] WARNING hw6-consumer - update not implemented, skipping requestId=27e65403-889b-412e-aa77-ee4941306e9d
+[2025-10-19 22:11:06,422] INFO hw6-consumer - Consumed request key=1760926199968 requestId=a2d554ea-c652-409d-b76c-29b957b37dce
+[2025-10-19 22:11:06,422] WARNING hw6-consumer - update not implemented, skipping requestId=a2d554ea-c652-409d-b76c-29b957b37dce
+[2025-10-19 22:11:06,530] INFO hw6-consumer - Consumed request key=1760926200118 requestId=102b5c01-9aca-405c-9060-ccc4a4d83699
+[2025-10-19 22:11:06,530] WARNING hw6-consumer - update not implemented, skipping requestId=102b5c01-9aca-405c-9060-ccc4a4d83699
+[2025-10-19 22:11:06,632] INFO hw6-consumer - Consumed request key=1760926200267 requestId=a117eb28-0f33-421c-ba5c-745afc2f57ac
+[2025-10-19 22:11:06,633] WARNING hw6-consumer - update not implemented, skipping requestId=a117eb28-0f33-421c-ba5c-745afc2f57ac
+[2025-10-19 22:11:06,714] INFO hw6-consumer - Consumed request key=1760926200427 requestId=958c9304-ae19-4c83-95aa-2868ab17c9ca
+[2025-10-19 22:11:06,714] WARNING hw6-consumer - update not implemented, skipping requestId=958c9304-ae19-4c83-95aa-2868ab17c9ca
+[2025-10-19 22:11:06,803] INFO hw6-consumer - Consumed request key=1760926200578 requestId=853a5cf2-f363-48e2-b429-462d9d3bd20e
+[2025-10-19 22:11:06,804] WARNING hw6-consumer - update not implemented, skipping requestId=853a5cf2-f363-48e2-b429-462d9d3bd20e
+[2025-10-19 22:11:06,911] INFO hw6-consumer - Consumed request key=1760926200725 requestId=9d76ee7a-62af-45ac-885d-bfaa5a306170
+[2025-10-19 22:11:06,911] WARNING hw6-consumer - update not implemented, skipping requestId=9d76ee7a-62af-45ac-885d-bfaa5a306170
+[2025-10-19 22:11:07,007] INFO hw6-consumer - Consumed request key=1760926200871 requestId=f00bae87-e72e-4c37-84ee-9a04f68e293b
+[2025-10-19 22:11:07,008] WARNING hw6-consumer - update not implemented, skipping requestId=f00bae87-e72e-4c37-84ee-9a04f68e293b
+[2025-10-19 22:11:07,090] INFO hw6-consumer - Consumed request key=1760926201023 requestId=8dbdd224-bfd9-4f27-b751-dd00233a3e47
+[2025-10-19 22:11:07,090] WARNING hw6-consumer - update not implemented, skipping requestId=8dbdd224-bfd9-4f27-b751-dd00233a3e47
+[2025-10-19 22:11:07,178] INFO hw6-consumer - Consumed request key=1760926201172 requestId=7fe49065-8ec9-4bd0-a0e6-a1fb1b8079eb
+[2025-10-19 22:11:07,178] WARNING hw6-consumer - update not implemented, skipping requestId=7fe49065-8ec9-4bd0-a0e6-a1fb1b8079eb
+[2025-10-19 22:11:07,267] INFO hw6-consumer - Consumed request key=1760926201317 requestId=03ed73af-1610-44e5-82b4-a9e7b3fe93df
+[2025-10-19 22:11:07,310] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/b74fe8a9-b28a-4788-ad88-ba8f0478d953
+[2025-10-19 22:11:07,397] INFO hw6-consumer - Consumed request key=1760926201363 requestId=884ce352-1897-41c8-8387-eea094a95416
+[2025-10-19 22:11:07,444] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/64546cca-2871-4a77-956c-9ffe5d0346de
+[2025-10-19 22:11:07,568] INFO hw6-consumer - Consumed request key=1760926201404 requestId=9b1e2f56-97e2-4976-8d9c-6817be3b6390
+[2025-10-19 22:11:07,569] WARNING hw6-consumer - update not implemented, skipping requestId=9b1e2f56-97e2-4976-8d9c-6817be3b6390
+[2025-10-19 22:11:07,656] INFO hw6-consumer - Consumed request key=1760926201561 requestId=879e43a5-6da4-43fb-9607-3d960d2efd86
+[2025-10-19 22:11:07,656] WARNING hw6-consumer - update not implemented, skipping requestId=879e43a5-6da4-43fb-9607-3d960d2efd86
+[2025-10-19 22:11:07,748] INFO hw6-consumer - Consumed request key=1760926201709 requestId=49f49b82-22c8-41fa-8011-9975c1eace91
+[2025-10-19 22:11:07,888] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/a0fb7ff3-f2e9-4a2b-9d69-0110037659e8
+[2025-10-19 22:11:07,998] INFO hw6-consumer - Consumed request key=1760926201758 requestId=7f5ae469-548f-48b0-a4ac-b6a04e5e6952
+[2025-10-19 22:11:08,052] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/6ccef01a-625c-4bda-a095-96accdcda9fd
+[2025-10-19 22:11:08,133] INFO hw6-consumer - Consumed request key=1760926201844 requestId=26b1f73a-e2b0-42fb-ad55-c53d8e01c387
+[2025-10-19 22:11:08,181] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/3d3bbc7b-4eec-474d-9be3-232dede1bc3d
+[2025-10-19 22:11:08,313] INFO hw6-consumer - Consumed request key=1760926201953 requestId=4db34a1d-12cf-470e-ad1a-b621a108b98b
+[2025-10-19 22:11:08,358] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/a347e37f-5d3c-4fd1-8d67-68341083b528
+[2025-10-19 22:11:08,444] INFO hw6-consumer - Consumed request key=1760926201998 requestId=3155d9bc-9839-4c54-ab8e-1e30afc51eab
+[2025-10-19 22:11:08,445] WARNING hw6-consumer - update not implemented, skipping requestId=3155d9bc-9839-4c54-ab8e-1e30afc51eab
+[2025-10-19 22:11:08,522] INFO hw6-consumer - Consumed request key=1760926202147 requestId=20fb1d7a-15e7-484b-912e-97dae50c5baf
+[2025-10-19 22:11:08,522] WARNING hw6-consumer - update not implemented, skipping requestId=20fb1d7a-15e7-484b-912e-97dae50c5baf
+[2025-10-19 22:11:08,630] INFO hw6-consumer - Consumed request key=1760926202303 requestId=81fcee8e-8f47-4469-94c9-2b70e320f98f
+[2025-10-19 22:11:08,630] WARNING hw6-consumer - update not implemented, skipping requestId=81fcee8e-8f47-4469-94c9-2b70e320f98f
+[2025-10-19 22:11:08,722] INFO hw6-consumer - Consumed request key=1760926202462 requestId=d0c66b7a-051a-4f29-9393-562acb24dfa5
+[2025-10-19 22:11:08,723] WARNING hw6-consumer - update not implemented, skipping requestId=d0c66b7a-051a-4f29-9393-562acb24dfa5
+[2025-10-19 22:11:08,809] INFO hw6-consumer - Consumed request key=1760926202619 requestId=ee634252-dd08-4a0c-9d13-22b7e6c91015
+[2025-10-19 22:11:08,809] WARNING hw6-consumer - update not implemented, skipping requestId=ee634252-dd08-4a0c-9d13-22b7e6c91015
+[2025-10-19 22:11:08,897] INFO hw6-consumer - Consumed request key=1760926202787 requestId=28bdf787-7738-4fe2-bbbf-d1b78d563e42
+[2025-10-19 22:11:08,940] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/4825b126-149e-4135-8e1c-8b0f9e2b27c2
+[2025-10-19 22:11:09,033] INFO hw6-consumer - Consumed request key=1760926202835 requestId=d8b9ce0e-5509-4e19-b250-c374dce00bd1
+[2025-10-19 22:11:09,033] WARNING hw6-consumer - update not implemented, skipping requestId=d8b9ce0e-5509-4e19-b250-c374dce00bd1
+[2025-10-19 22:11:09,116] INFO hw6-consumer - Consumed request key=1760926202980 requestId=38546422-8027-4e56-9c9b-f403daec70cb
+[2025-10-19 22:11:09,117] WARNING hw6-consumer - update not implemented, skipping requestId=38546422-8027-4e56-9c9b-f403daec70cb
+[2025-10-19 22:11:09,218] INFO hw6-consumer - Consumed request key=1760926203155 requestId=165aa1fa-45c7-4e7b-9a9a-5fa7d59b8752
+[2025-10-19 22:11:09,265] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/7d1f0591-23ad-4dd8-8948-48961fb8e0ad
+[2025-10-19 22:11:09,375] INFO hw6-consumer - Consumed request key=1760926203218 requestId=2ce52910-339c-488c-b80b-03f7c51c5dc3
+[2025-10-19 22:11:09,376] WARNING hw6-consumer - update not implemented, skipping requestId=2ce52910-339c-488c-b80b-03f7c51c5dc3
+[2025-10-19 22:11:09,457] INFO hw6-consumer - Consumed request key=1760926203366 requestId=77ed2a63-4cf8-4e10-aca6-7588da9effb4
+[2025-10-19 22:11:09,457] WARNING hw6-consumer - delete not implemented, skipping requestId=77ed2a63-4cf8-4e10-aca6-7588da9effb4
+[2025-10-19 22:11:09,538] INFO hw6-consumer - Consumed request key=1760926203515 requestId=b5b5369f-1e21-4244-b052-8aa957df3808
+[2025-10-19 22:11:09,581] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/daacd803-1e2b-4d52-9341-20f821fc422c
+[2025-10-19 22:11:09,668] INFO hw6-consumer - Consumed request key=1760926203562 requestId=2301e9bb-80c8-48ee-8f1f-6161d1b10a4c
+[2025-10-19 22:11:09,717] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/1f888c31-4de0-4030-97ad-9f433d038a79
+[2025-10-19 22:11:09,816] INFO hw6-consumer - Consumed request key=1760926203616 requestId=263d335a-da1d-498c-bd49-b95c22b0cffd
+[2025-10-19 22:11:09,866] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/4183c20b-2de9-42c6-a6f8-dfc208e24531
+[2025-10-19 22:11:09,954] INFO hw6-consumer - Consumed request key=1760926203660 requestId=400b9636-e08d-46e7-8160-78ef4cdc171d
+[2025-10-19 22:11:10,003] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/6c83daee-fb08-4cd2-83f3-1e80b45e2e7d
+[2025-10-19 22:11:10,173] INFO hw6-consumer - Consumed request key=1760926203743 requestId=cc306c79-edbf-40e8-93d6-93bf697bcb3e
+[2025-10-19 22:11:10,225] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/5d477610-4341-46a2-92b1-94c46034ecda
+[2025-10-19 22:11:10,309] INFO hw6-consumer - Consumed request key=1760926203789 requestId=db848b81-62e9-4c0c-add8-efd113007201
+[2025-10-19 22:11:10,349] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/669b5975-4678-4088-bebd-e7d8c8352ba2
+[2025-10-19 22:11:10,437] INFO hw6-consumer - Consumed request key=1760926203838 requestId=f688310c-4f35-4312-934d-d5bee8a68182
+[2025-10-19 22:11:10,485] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/c6ca2571-438b-4c81-9f24-8828d6c59add
+[2025-10-19 22:11:10,563] INFO hw6-consumer - Consumed request key=1760926203885 requestId=a0419e16-2b63-480b-a3f2-513cda950fa1
+[2025-10-19 22:11:10,564] WARNING hw6-consumer - update not implemented, skipping requestId=a0419e16-2b63-480b-a3f2-513cda950fa1
+[2025-10-19 22:11:10,643] INFO hw6-consumer - Consumed request key=1760926204028 requestId=94dd8795-4ad9-4f08-98f1-6aeeed9cf00c
+[2025-10-19 22:11:10,682] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/ab94bcdc-4e5c-46f9-8120-5c624941bb7b
+[2025-10-19 22:11:10,763] INFO hw6-consumer - Consumed request key=1760926204071 requestId=ce66a471-0ef8-4e27-a8a9-d4bb0bdbcd1d
+[2025-10-19 22:11:10,807] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/6d1dc9fa-2928-489b-8150-9e82af99f951
+[2025-10-19 22:11:11,078] INFO hw6-consumer - Consumed request key=1760926204112 requestId=9e784f3a-b316-4b9d-8bf9-3d5d7e9014b6
+[2025-10-19 22:11:11,078] WARNING hw6-consumer - delete not implemented, skipping requestId=9e784f3a-b316-4b9d-8bf9-3d5d7e9014b6
+[2025-10-19 22:11:11,320] INFO hw6-consumer - Consumed request key=1760926204253 requestId=1120bb53-b855-49ac-94b0-18ce5f23569c
+[2025-10-19 22:11:11,321] WARNING hw6-consumer - update not implemented, skipping requestId=1120bb53-b855-49ac-94b0-18ce5f23569c
+[2025-10-19 22:11:11,474] INFO hw6-consumer - Consumed request key=1760926204402 requestId=63cea8e0-7845-4c4a-bb00-72aa6b1ee807
+[2025-10-19 22:11:11,522] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/a8593a9f-7d93-4494-9bd8-7bdc76a376c2
+[2025-10-19 22:11:11,684] INFO hw6-consumer - Consumed request key=1760926204447 requestId=f3271e93-c8d0-46de-821c-91baa2a74e78
+[2025-10-19 22:11:11,684] WARNING hw6-consumer - update not implemented, skipping requestId=f3271e93-c8d0-46de-821c-91baa2a74e78
+[2025-10-19 22:11:11,838] INFO hw6-consumer - Consumed request key=1760926204594 requestId=47dbd94c-ed2d-42d2-8715-e72fc9700ccd
+[2025-10-19 22:11:11,838] WARNING hw6-consumer - update not implemented, skipping requestId=47dbd94c-ed2d-42d2-8715-e72fc9700ccd
+[2025-10-19 22:11:11,996] INFO hw6-consumer - Consumed request key=1760926204738 requestId=1000ef2d-1e22-4db3-bf40-d5875c7f58a9
+[2025-10-19 22:11:12,041] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/6c2c71e5-4232-4784-adf8-485884906bd9
+[2025-10-19 22:11:12,187] INFO hw6-consumer - Consumed request key=1760926204806 requestId=27844b31-bccf-4a28-ae71-a5a282a32180
+[2025-10-19 22:11:12,187] WARNING hw6-consumer - update not implemented, skipping requestId=27844b31-bccf-4a28-ae71-a5a282a32180
+[2025-10-19 22:11:12,273] INFO hw6-consumer - Consumed request key=1760926204961 requestId=9947287c-dfe7-4a0a-96f3-adecdc277827
+[2025-10-19 22:11:12,318] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/a90acf65-144a-4d55-80be-3288ae75f7b6
+[2025-10-19 22:11:12,410] INFO hw6-consumer - Consumed request key=1760926205045 requestId=1da450f4-1d81-4ddf-a6e7-0416ff3ea60d
+[2025-10-19 22:11:12,456] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/c142acbf-5a63-4ce0-8546-cdc2745fc1c7
+[2025-10-19 22:11:12,537] INFO hw6-consumer - Consumed request key=1760926205087 requestId=07b9e277-fd1c-43dc-ad8d-6b115bcf9331
+[2025-10-19 22:11:12,583] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/1244b86f-856c-41ee-94bf-00daa816d232
+[2025-10-19 22:11:12,678] INFO hw6-consumer - Consumed request key=1760926205178 requestId=3331b422-071d-4df9-8fe4-498e3792a368
+[2025-10-19 22:11:12,678] WARNING hw6-consumer - delete not implemented, skipping requestId=3331b422-071d-4df9-8fe4-498e3792a368
+[2025-10-19 22:11:12,771] INFO hw6-consumer - Consumed request key=1760926205313 requestId=8f232419-0025-4461-86dc-9a286a3d056e
+[2025-10-19 22:11:12,817] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/f6604fb5-1595-42bf-8ecd-a75707445567
+[2025-10-19 22:11:12,900] INFO hw6-consumer - Consumed request key=1760926205365 requestId=739adf82-af93-4168-9cbc-225042a57c9f
+[2025-10-19 22:11:12,901] WARNING hw6-consumer - delete not implemented, skipping requestId=739adf82-af93-4168-9cbc-225042a57c9f
+[2025-10-19 22:11:12,996] INFO hw6-consumer - Consumed request key=1760926205505 requestId=071ee617-19f1-4fc2-8118-7107f984ffb0
+[2025-10-19 22:11:13,045] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/c4b93804-8882-4e26-812c-ad5f68c2327a
+[2025-10-19 22:11:13,125] INFO hw6-consumer - Consumed request key=1760926205547 requestId=8c27de7a-1020-4b2b-ba75-be54d91f694e
+[2025-10-19 22:11:13,165] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/c60ef6b9-013e-47f1-8b75-4e6d6121a7ea
+[2025-10-19 22:11:13,250] INFO hw6-consumer - Consumed request key=1760926205592 requestId=26f87114-4605-4bee-9793-ff6c59add1c3
+[2025-10-19 22:11:13,423] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/cf4d0228-1212-46a6-b37e-6fd8a7e38a03
+[2025-10-19 22:11:13,508] INFO hw6-consumer - Consumed request key=1760926205655 requestId=683f3b4c-bae7-44a9-82a2-17c5b35a69ba
+[2025-10-19 22:11:13,562] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/f86e40f5-c99c-4ab2-ab9a-ee3ae48b5215
+[2025-10-19 22:11:13,680] INFO hw6-consumer - Consumed request key=1760926205718 requestId=b8c494ee-d69a-47ff-afc0-c38b0e6ad52f
+[2025-10-19 22:11:13,728] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/5ea459de-f8a4-421e-8b83-e2a19060b752
+[2025-10-19 22:11:13,809] INFO hw6-consumer - Consumed request key=1760926205763 requestId=c55dbc40-9dac-426e-ba84-8c4632b69013
+[2025-10-19 22:11:13,809] WARNING hw6-consumer - delete not implemented, skipping requestId=c55dbc40-9dac-426e-ba84-8c4632b69013
+[2025-10-19 22:11:13,889] INFO hw6-consumer - Consumed request key=1760926205910 requestId=5216eab0-a186-4eb9-bbd0-782c5465491a
+[2025-10-19 22:11:13,930] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/38665b25-3677-4999-861e-3694fb5f3a22
+[2025-10-19 22:11:14,016] INFO hw6-consumer - Consumed request key=1760926205969 requestId=74af2b74-3157-40bd-a1ea-081029ef25b6
+[2025-10-19 22:11:14,060] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/c33dd854-fff5-4d96-9a81-366ecf87aced
+[2025-10-19 22:11:14,174] INFO hw6-consumer - Consumed request key=1760926206021 requestId=999b2f6b-d946-4530-88a9-48bdddcffaed
+[2025-10-19 22:11:14,214] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/46ca117b-2ead-4f86-acc9-2e6e02a1c432
+[2025-10-19 22:11:14,300] INFO hw6-consumer - Consumed request key=1760926206070 requestId=a323ecd8-da4c-4ed6-ab17-f3c10a1a8596
+[2025-10-19 22:11:14,342] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/837209bb-23c0-48cd-bc39-f44e74ee9180
+[2025-10-19 22:11:14,429] INFO hw6-consumer - Consumed request key=1760926206115 requestId=1f020594-c748-4c83-94f9-4de0f0f1bb28
+[2025-10-19 22:11:14,430] WARNING hw6-consumer - update not implemented, skipping requestId=1f020594-c748-4c83-94f9-4de0f0f1bb28
+[2025-10-19 22:11:14,512] INFO hw6-consumer - Consumed request key=1760926206259 requestId=5ee135b4-abfb-49ad-8da6-e283b3e463ab
+[2025-10-19 22:11:14,554] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/436a4311-c6bb-4d04-bc02-85ec88fce9ca
+[2025-10-19 22:11:14,640] INFO hw6-consumer - Consumed request key=1760926206310 requestId=8a8da82f-15ca-4327-abea-ab24a84c55e9
+[2025-10-19 22:11:14,682] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/4d02cfa1-a4b8-4e06-aad2-f6d78632eb6d
+[2025-10-19 22:11:14,836] INFO hw6-consumer - Consumed request key=1760926206357 requestId=adc357d4-c58e-43da-9eb5-65341ecf6d4b
+[2025-10-19 22:11:14,886] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/0af423ca-53fc-4dde-987b-5eecaea82a7c
+[2025-10-19 22:11:15,010] INFO hw6-consumer - Consumed request key=1760926206397 requestId=25aa28e2-e1e7-4730-a021-898e4801b04c
+[2025-10-19 22:11:15,051] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/71b173fd-6610-4be3-a3c4-fa44908f9554
+[2025-10-19 22:11:15,222] INFO hw6-consumer - Consumed request key=1760926206443 requestId=e1b7c032-caca-4036-b493-85baa2385f7a
+[2025-10-19 22:11:15,260] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/c40709c6-fadb-4b92-b983-fb4f7724eeeb
+[2025-10-19 22:11:15,344] INFO hw6-consumer - Consumed request key=1760926206567 requestId=1854443d-de57-4d15-bb03-308041db9d67
+[2025-10-19 22:11:15,344] WARNING hw6-consumer - update not implemented, skipping requestId=1854443d-de57-4d15-bb03-308041db9d67
+[2025-10-19 22:11:15,416] INFO hw6-consumer - Consumed request key=1760926206715 requestId=7d1cd4f7-af31-4443-beac-2bfd6565e7c2
+[2025-10-19 22:11:15,416] WARNING hw6-consumer - delete not implemented, skipping requestId=7d1cd4f7-af31-4443-beac-2bfd6565e7c2
+[2025-10-19 22:11:15,496] INFO hw6-consumer - Consumed request key=1760926206857 requestId=3c6a8e9e-8cac-4e8a-8061-08c2df796596
+[2025-10-19 22:11:15,537] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/5b738339-80dc-4120-97a4-2e1983194934
+[2025-10-19 22:11:15,616] INFO hw6-consumer - Consumed request key=1760926206908 requestId=fcd34de4-0890-4c49-ab9f-7049f1d37e2e
+[2025-10-19 22:11:15,616] WARNING hw6-consumer - update not implemented, skipping requestId=fcd34de4-0890-4c49-ab9f-7049f1d37e2e
+[2025-10-19 22:11:15,694] INFO hw6-consumer - Consumed request key=1760926207066 requestId=2e8b80f2-2a7d-4103-9e67-778ab3626585
+[2025-10-19 22:11:15,695] WARNING hw6-consumer - update not implemented, skipping requestId=2e8b80f2-2a7d-4103-9e67-778ab3626585
+[2025-10-19 22:11:15,799] INFO hw6-consumer - Consumed request key=1760926207215 requestId=08df4dfd-5330-41e1-94f0-e356b35a65d0
+[2025-10-19 22:11:15,835] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/8eebc88c-8d08-4972-a327-5e485a728814
+[2025-10-19 22:11:15,912] INFO hw6-consumer - Consumed request key=1760926207267 requestId=55466125-aef7-49a0-9af6-2b0ddce221bc
+[2025-10-19 22:11:15,912] WARNING hw6-consumer - delete not implemented, skipping requestId=55466125-aef7-49a0-9af6-2b0ddce221bc
+[2025-10-19 22:11:16,105] INFO hw6-consumer - Consumed request key=1760926207407 requestId=599a06c1-ac1f-4961-9ce2-2f698e478b3c
+[2025-10-19 22:11:16,150] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/1e7e9b3c-696d-4c99-a25f-8c1c2750096e
+[2025-10-19 22:11:16,244] INFO hw6-consumer - Consumed request key=1760926207472 requestId=20a47682-489b-48ea-9213-22444346fab3
+[2025-10-19 22:11:16,283] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/99cca260-175c-4dd3-94cc-d76d59171672
+[2025-10-19 22:11:16,365] INFO hw6-consumer - Consumed request key=1760926207529 requestId=aa13711d-69c7-40e4-9b0b-3f75fee70847
+[2025-10-19 22:11:16,365] WARNING hw6-consumer - update not implemented, skipping requestId=aa13711d-69c7-40e4-9b0b-3f75fee70847
+[2025-10-19 22:11:16,446] INFO hw6-consumer - Consumed request key=1760926207678 requestId=a9e38892-28e5-4873-94af-e45d65ca3a8e
+[2025-10-19 22:11:16,540] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/209158cd-6629-4d1d-8701-7a1f27290f2d
+[2025-10-19 22:11:16,612] INFO hw6-consumer - Consumed request key=1760926207729 requestId=ff9083d7-e491-4783-bdb7-c24efa0f3cfd
+[2025-10-19 22:11:16,612] WARNING hw6-consumer - delete not implemented, skipping requestId=ff9083d7-e491-4783-bdb7-c24efa0f3cfd
+[2025-10-19 22:11:16,706] INFO hw6-consumer - Consumed request key=1760926207886 requestId=c1b6fd48-1cc0-4cd0-9549-39b15e745ea3
+[2025-10-19 22:11:16,707] WARNING hw6-consumer - update not implemented, skipping requestId=c1b6fd48-1cc0-4cd0-9549-39b15e745ea3
+[2025-10-19 22:11:16,780] INFO hw6-consumer - Consumed request key=1760926208063 requestId=74a7ed82-bc84-489d-8bbf-d97e3689d96f
+[2025-10-19 22:11:16,780] WARNING hw6-consumer - update not implemented, skipping requestId=74a7ed82-bc84-489d-8bbf-d97e3689d96f
+[2025-10-19 22:11:16,859] INFO hw6-consumer - Consumed request key=1760926208215 requestId=d3c5ffd3-b8c5-41d6-b86b-b72d43de5aac
+[2025-10-19 22:11:16,904] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/2f98a43c-3bd2-4941-9b6a-1af8024fa664
+[2025-10-19 22:11:16,983] INFO hw6-consumer - Consumed request key=1760926208277 requestId=35868853-5ba7-4655-8240-2f6bec6dfcd0
+[2025-10-19 22:11:17,019] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/6883e1e1-15c0-43af-a80c-d30673aa3e1c
+[2025-10-19 22:11:17,124] INFO hw6-consumer - Consumed request key=1760926208329 requestId=1d0483c5-a48a-4b47-b73c-4eb994243d63
+[2025-10-19 22:11:17,124] WARNING hw6-consumer - update not implemented, skipping requestId=1d0483c5-a48a-4b47-b73c-4eb994243d63
+[2025-10-19 22:11:17,203] INFO hw6-consumer - Consumed request key=1760926208482 requestId=069f4c74-7b70-48d9-b777-ab817bc67167
+[2025-10-19 22:11:17,261] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/ab90d730-36e5-4dc9-96a6-0b8ec65536b6
+[2025-10-19 22:11:17,351] INFO hw6-consumer - Consumed request key=1760926208526 requestId=74bcb8c3-4eed-4737-abb4-85b45dc9a3f8
+[2025-10-19 22:11:17,403] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/5ed19df9-dcb7-44a7-9bed-bc1e77c63257
+[2025-10-19 22:11:17,481] INFO hw6-consumer - Consumed request key=1760926208584 requestId=32ab2499-8532-437e-a21c-dd672c204813
+[2025-10-19 22:11:17,481] WARNING hw6-consumer - update not implemented, skipping requestId=32ab2499-8532-437e-a21c-dd672c204813
+[2025-10-19 22:11:17,556] INFO hw6-consumer - Consumed request key=1760926208736 requestId=b0268377-f369-4d17-9ccf-9e50591efc4d
+[2025-10-19 22:11:17,599] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/05e0fbe6-640e-442d-8930-7a3205589fcb
+[2025-10-19 22:11:17,684] INFO hw6-consumer - Consumed request key=1760926208797 requestId=bf62fba0-cffe-4275-8eda-800fb6a125e6
+[2025-10-19 22:11:17,728] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/e4db03e0-f255-4ddd-bca0-2767c791c9c5
+[2025-10-19 22:11:17,813] INFO hw6-consumer - Consumed request key=1760926208860 requestId=f23f27bf-ca42-41ab-914b-20afa96e79df
+[2025-10-19 22:11:17,863] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/24d9a2f0-19bd-4b70-808e-c57dc31f0968
+[2025-10-19 22:11:17,934] INFO hw6-consumer - Consumed request key=1760926208937 requestId=e2d02dee-362b-4995-b4f6-9bf01c121fd8
+[2025-10-19 22:11:17,934] WARNING hw6-consumer - delete not implemented, skipping requestId=e2d02dee-362b-4995-b4f6-9bf01c121fd8
+[2025-10-19 22:11:18,016] INFO hw6-consumer - Consumed request key=1760926209086 requestId=a1a5bac2-122d-40f2-803a-5833ec101594
+[2025-10-19 22:11:18,065] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/0cb6e3af-ce43-416a-b84e-a1bec69189ae
+[2025-10-19 22:11:18,152] INFO hw6-consumer - Consumed request key=1760926209137 requestId=be9c78d0-7229-4346-8cc6-7d206196498b
+[2025-10-19 22:11:18,152] WARNING hw6-consumer - update not implemented, skipping requestId=be9c78d0-7229-4346-8cc6-7d206196498b
+[2025-10-19 22:11:18,238] INFO hw6-consumer - Consumed request key=1760926209293 requestId=8a715d58-cab5-4ffa-9267-20348b61cf47
+[2025-10-19 22:11:18,278] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/2d02094d-997d-4b8b-b9e1-2f69ca723e5f
+[2025-10-19 22:11:18,357] INFO hw6-consumer - Consumed request key=1760926209358 requestId=6bf763d8-dbe3-4adf-ac78-4cdfdf5c2a2b
+[2025-10-19 22:11:18,403] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/7c3a6e82-1ad6-4b2e-b870-14895092a9de
+[2025-10-19 22:11:18,524] INFO hw6-consumer - Consumed request key=1760926209408 requestId=c27e92db-af63-4627-ab9a-fc4943f700fb
+[2025-10-19 22:11:18,570] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/d250a1f5-c3e0-4e3a-891f-7f12c04c16b7
+[2025-10-19 22:11:18,657] INFO hw6-consumer - Consumed request key=1760926209469 requestId=f6cd1972-3060-47cb-8486-7fd24f004d1b
+[2025-10-19 22:11:18,657] WARNING hw6-consumer - update not implemented, skipping requestId=f6cd1972-3060-47cb-8486-7fd24f004d1b
+[2025-10-19 22:11:18,740] INFO hw6-consumer - Consumed request key=1760926209643 requestId=7fdddccb-9173-46fe-911f-77446a73b1f9
+[2025-10-19 22:11:18,741] WARNING hw6-consumer - delete not implemented, skipping requestId=7fdddccb-9173-46fe-911f-77446a73b1f9
+[2025-10-19 22:11:18,818] INFO hw6-consumer - Consumed request key=1760926209785 requestId=b615c4c4-2b42-4aa2-9d1d-b56e8163eedb
+[2025-10-19 22:11:18,871] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/721ab39b-be2d-49c7-afaf-c69149e14301
+[2025-10-19 22:11:19,022] INFO hw6-consumer - Consumed request key=1760926209841 requestId=5475c7f2-471d-4489-ac16-be2b752c43c6
+[2025-10-19 22:11:19,063] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/dcdd474b-117b-4c04-bb26-56d5dbcea3c6
+[2025-10-19 22:11:19,139] INFO hw6-consumer - Consumed request key=1760926209896 requestId=2c58603d-8e10-4311-b110-06ddd0e3ef58
+[2025-10-19 22:11:19,178] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/d1cb1b40-fd0a-4799-a1c3-1e69dd37ec4a
+[2025-10-19 22:11:19,258] INFO hw6-consumer - Consumed request key=1760926209949 requestId=213f07de-83e3-467b-aa32-16bf7ffa858a
+[2025-10-19 22:11:19,294] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/5ac2a844-c6d1-4443-a620-77d24a7cd07f
+[2025-10-19 22:11:19,410] INFO hw6-consumer - Consumed request key=1760926210042 requestId=f3d1a9f4-eab2-4e53-b67a-5382e70ee36e
+[2025-10-19 22:11:19,454] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/a663b77b-ac81-4351-ada2-e07e6e773bef
+[2025-10-19 22:11:19,532] INFO hw6-consumer - Consumed request key=1760926210093 requestId=7e5baafb-21d0-4ffb-bafc-0dc4f8dcea0a
+[2025-10-19 22:11:19,575] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/df70eeca-a8b9-4622-b8ea-131de4af5689
+[2025-10-19 22:11:19,677] INFO hw6-consumer - Consumed request key=1760926210143 requestId=3f6662ef-058b-44aa-b694-da9a7ffc0112
+[2025-10-19 22:11:19,715] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/5c73b2d2-6844-4626-9963-b0475252229e
+[2025-10-19 22:11:19,790] INFO hw6-consumer - Consumed request key=1760926210189 requestId=5719b3b3-e905-47f0-9bf0-e24c6cb7ffcd
+[2025-10-19 22:11:19,790] WARNING hw6-consumer - update not implemented, skipping requestId=5719b3b3-e905-47f0-9bf0-e24c6cb7ffcd
+[2025-10-19 22:11:19,867] INFO hw6-consumer - Consumed request key=1760926210340 requestId=11f00bb8-27fc-4edb-87db-561f8a9a6fa0
+[2025-10-19 22:11:19,910] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/3eb68245-a591-48e3-b5b4-390295bf6578
+[2025-10-19 22:11:19,985] INFO hw6-consumer - Consumed request key=1760926210390 requestId=25347afb-2a48-490d-ad4e-9c17554b780a
+[2025-10-19 22:11:19,985] WARNING hw6-consumer - update not implemented, skipping requestId=25347afb-2a48-490d-ad4e-9c17554b780a
+[2025-10-19 22:11:20,059] INFO hw6-consumer - Consumed request key=1760926210540 requestId=9a595188-39fa-4cd7-a3d9-0961ee12049a
+[2025-10-19 22:11:20,059] WARNING hw6-consumer - update not implemented, skipping requestId=9a595188-39fa-4cd7-a3d9-0961ee12049a
+[2025-10-19 22:11:20,162] INFO hw6-consumer - Consumed request key=1760926210708 requestId=f9610c40-a68e-4b76-9293-a0ad4848d9f5
+[2025-10-19 22:11:20,162] WARNING hw6-consumer - update not implemented, skipping requestId=f9610c40-a68e-4b76-9293-a0ad4848d9f5
+[2025-10-19 22:11:20,243] INFO hw6-consumer - Consumed request key=1760926210860 requestId=0c7bf8d8-556a-4ed3-8a29-7ad081c6a19a
+[2025-10-19 22:11:20,278] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/a4dd1bff-724f-4a8d-b033-6256f2b04cd6
+[2025-10-19 22:11:20,360] INFO hw6-consumer - Consumed request key=1760926210909 requestId=629f3ccf-1593-4b5c-a9e3-fa61eca80b24
+[2025-10-19 22:11:20,405] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/2bbcd1db-cae7-40ba-b8ec-69488dd68b5d
+[2025-10-19 22:11:20,496] INFO hw6-consumer - Consumed request key=1760926210962 requestId=a3bc87eb-5592-424e-be69-0347e3fbe193
+[2025-10-19 22:11:20,542] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/47153268-a6ad-45e8-81ab-08700c6043a4
+[2025-10-19 22:11:20,645] INFO hw6-consumer - Consumed request key=1760926211016 requestId=d5f391d8-69f0-438c-b4a8-40fc0c9410ed
+[2025-10-19 22:11:20,645] WARNING hw6-consumer - update not implemented, skipping requestId=d5f391d8-69f0-438c-b4a8-40fc0c9410ed
+[2025-10-19 22:11:20,752] INFO hw6-consumer - Consumed request key=1760926211165 requestId=9a4593f7-87eb-4059-948c-582365dbf9af
+[2025-10-19 22:11:20,797] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/76ac4e72-162c-409f-88e8-1d7b85c3c90e
+[2025-10-19 22:11:20,879] INFO hw6-consumer - Consumed request key=1760926211213 requestId=8f369712-b371-4586-9ff4-ff1852ef8a52
+[2025-10-19 22:11:20,880] WARNING hw6-consumer - update not implemented, skipping requestId=8f369712-b371-4586-9ff4-ff1852ef8a52
+[2025-10-19 22:11:20,963] INFO hw6-consumer - Consumed request key=1760926211361 requestId=af76601f-9782-42d9-9dae-9e956828ee4d
+[2025-10-19 22:11:21,006] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/cd0571dc-9a78-4360-97af-f1827c167042
+[2025-10-19 22:11:21,094] INFO hw6-consumer - Consumed request key=1760926211414 requestId=dab83ce8-b6b2-44b9-a32f-1a98efb419b7
+[2025-10-19 22:11:21,136] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/ebec925c-9878-44e1-925d-9f161acb0181
+[2025-10-19 22:11:21,215] INFO hw6-consumer - Consumed request key=1760926211468 requestId=9e920dd8-d83a-41b2-8e88-0e183011fb38
+[2025-10-19 22:11:21,258] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/b32ca243-1e0e-48b2-85c1-3f74fc586700
+[2025-10-19 22:11:21,340] INFO hw6-consumer - Consumed request key=1760926211520 requestId=bacd4f87-8bab-41a3-9b02-eab064fe764d
+[2025-10-19 22:11:21,407] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/a10dd629-b938-4869-8932-f732a31d0a9c
+[2025-10-19 22:11:21,487] INFO hw6-consumer - Consumed request key=1760926211572 requestId=4d39df7e-a539-47c6-a513-30b46926de37
+[2025-10-19 22:11:21,530] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/4b59349f-86ce-4551-b47a-09a2fcf5fb6e
+[2025-10-19 22:11:21,617] INFO hw6-consumer - Consumed request key=1760926211643 requestId=ec678527-e4ef-47ea-a13b-532c30acc58a
+[2025-10-19 22:11:21,661] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/29078072-fdb4-4ab0-9e9d-fbcc34bdf446
+[2025-10-19 22:11:21,749] INFO hw6-consumer - Consumed request key=1760926211735 requestId=e61ac898-2377-4559-abb5-9413ed91a476
+[2025-10-19 22:11:21,750] WARNING hw6-consumer - update not implemented, skipping requestId=e61ac898-2377-4559-abb5-9413ed91a476
+[2025-10-19 22:11:21,832] INFO hw6-consumer - Consumed request key=1760926211888 requestId=2f865142-563f-4000-813c-f421a32b3e0e
+[2025-10-19 22:11:21,833] WARNING hw6-consumer - update not implemented, skipping requestId=2f865142-563f-4000-813c-f421a32b3e0e
+[2025-10-19 22:11:21,930] INFO hw6-consumer - Consumed request key=1760926212037 requestId=edcce57e-fea2-4859-88a2-8919e4531f4f
+[2025-10-19 22:11:21,972] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/796fafa1-571e-4624-8695-c31482b67a1a
+[2025-10-19 22:11:22,045] INFO hw6-consumer - Consumed request key=1760926212092 requestId=c2ddba04-f304-4810-b879-1d03a09f0223
+[2025-10-19 22:11:22,096] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/d0cfebe9-594a-4f8c-8ed0-348cd52a9289
+[2025-10-19 22:11:22,200] INFO hw6-consumer - Consumed request key=1760926212135 requestId=2f289a52-8bb4-4950-ac87-6afd95fb2da5
+[2025-10-19 22:11:22,200] WARNING hw6-consumer - update not implemented, skipping requestId=2f289a52-8bb4-4950-ac87-6afd95fb2da5
+[2025-10-19 22:11:22,299] INFO hw6-consumer - Consumed request key=1760926212303 requestId=0c1f3bc9-ca61-4fe2-aba2-acb840b61328
+[2025-10-19 22:11:22,299] WARNING hw6-consumer - delete not implemented, skipping requestId=0c1f3bc9-ca61-4fe2-aba2-acb840b61328
+[2025-10-19 22:11:22,381] INFO hw6-consumer - Consumed request key=1760926212444 requestId=4bbc6fcb-62d6-4ecd-a8e3-f4c49bcae6d2
+[2025-10-19 22:11:22,423] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/16b37dff-e806-4f1b-97d7-5b6b814b82a5
+[2025-10-19 22:11:22,512] INFO hw6-consumer - Consumed request key=1760926212509 requestId=e0046976-7358-44b2-90ba-3211edd208dd
+[2025-10-19 22:11:22,553] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/4dd03850-c15f-44ec-beac-838a144943c0
+[2025-10-19 22:11:22,628] INFO hw6-consumer - Consumed request key=1760926212588 requestId=e2ea979f-30c5-42ac-8f07-12e5fb5445a3
+[2025-10-19 22:11:22,628] WARNING hw6-consumer - update not implemented, skipping requestId=e2ea979f-30c5-42ac-8f07-12e5fb5445a3
+[2025-10-19 22:11:22,709] INFO hw6-consumer - Consumed request key=1760926212745 requestId=49ae8f3d-b5b9-4bc5-a8f8-ee4ff7e0b58f
+[2025-10-19 22:11:22,753] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/john-jones/ef83d6d8-a03d-44ef-84e4-1512b6b507f1
+[2025-10-19 22:11:22,891] INFO hw6-consumer - Consumed request key=1760926212797 requestId=d104de86-d2ef-4e9f-a980-31f2a580f1f9
+[2025-10-19 22:11:22,932] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/620f9428-478a-439c-89b4-bd701307a4e5
+[2025-10-19 22:11:22,998] INFO hw6-consumer - Consumed request key=1760926212858 requestId=a7b45600-aa17-4770-99cb-f71ece3d5f44
+[2025-10-19 22:11:22,998] WARNING hw6-consumer - delete not implemented, skipping requestId=a7b45600-aa17-4770-99cb-f71ece3d5f44
+[2025-10-19 22:11:23,086] INFO hw6-consumer - Consumed request key=1760926213002 requestId=149bd279-25b5-4bd4-9254-3fccc311cb56
+[2025-10-19 22:11:23,124] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/737f729e-b0e1-4881-a2ad-11673e70aba4
+[2025-10-19 22:11:23,195] INFO hw6-consumer - Consumed request key=1760926213049 requestId=dd453d73-e0eb-4b04-92f5-e05e31b41875
+[2025-10-19 22:11:23,196] WARNING hw6-consumer - update not implemented, skipping requestId=dd453d73-e0eb-4b04-92f5-e05e31b41875
+[2025-10-19 22:11:23,262] INFO hw6-consumer - Consumed request key=1760926213199 requestId=aa881ccb-ef81-47da-b71a-88605f34ed30
+[2025-10-19 22:11:23,304] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/henry-hops/9537eff0-e7de-4bc2-9d72-31c9b32d60eb
+[2025-10-19 22:11:23,377] INFO hw6-consumer - Consumed request key=1760926213250 requestId=91e7bcc3-d61a-4545-a4a0-aca1b3cdd529
+[2025-10-19 22:11:23,377] WARNING hw6-consumer - update not implemented, skipping requestId=91e7bcc3-d61a-4545-a4a0-aca1b3cdd529
+[2025-10-19 22:11:23,456] INFO hw6-consumer - Consumed request key=1760926213398 requestId=cd265487-b8c6-4f83-bc47-4d29e1a14a14
+[2025-10-19 22:11:23,504] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/35f95ef8-6d73-42de-a998-99f8dfb51f78
+[2025-10-19 22:11:23,588] INFO hw6-consumer - Consumed request key=1760926213465 requestId=2003f8e9-ba29-4f41-b17a-2dca276d8180
+[2025-10-19 22:11:23,588] WARNING hw6-consumer - update not implemented, skipping requestId=2003f8e9-ba29-4f41-b17a-2dca276d8180
+[2025-10-19 22:11:23,665] INFO hw6-consumer - Consumed request key=1760926213615 requestId=58878d75-897a-4258-97e0-82da212114eb
+[2025-10-19 22:11:23,665] WARNING hw6-consumer - delete not implemented, skipping requestId=58878d75-897a-4258-97e0-82da212114eb
+[2025-10-19 22:11:23,763] INFO hw6-consumer - Consumed request key=1760926213760 requestId=6aca7bbf-d8d2-4611-bcb6-0678f8622e53
+[2025-10-19 22:11:23,808] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/5807f441-dc1d-42ca-a289-d2d198b6f57d
+[2025-10-19 22:11:23,887] INFO hw6-consumer - Consumed request key=1760926213818 requestId=9c9e8d88-cd6e-4b67-9fc4-e621521da746
+[2025-10-19 22:11:23,933] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/sue-smith/41978394-4ec7-4e87-a710-b86e90369383
+[2025-10-19 22:11:24,003] INFO hw6-consumer - Consumed request key=1760926213862 requestId=8ed6dd50-4cb9-4424-a7b2-f5e357a54f62
+[2025-10-19 22:11:24,004] WARNING hw6-consumer - delete not implemented, skipping requestId=8ed6dd50-4cb9-4424-a7b2-f5e357a54f62
+[2025-10-19 22:11:24,095] INFO hw6-consumer - Consumed request key=1760926214003 requestId=4a300cf1-109c-498a-997d-7413ab66b1c2
+[2025-10-19 22:11:24,095] WARNING hw6-consumer - update not implemented, skipping requestId=4a300cf1-109c-498a-997d-7413ab66b1c2
+[2025-10-19 22:11:24,180] INFO hw6-consumer - Consumed request key=1760926214150 requestId=c43a2149-1792-41f5-ad08-7a478c28125a
+[2025-10-19 22:11:24,181] WARNING hw6-consumer - update not implemented, skipping requestId=c43a2149-1792-41f5-ad08-7a478c28125a
+[2025-10-19 22:11:24,293] INFO hw6-consumer - Consumed request key=1760926214330 requestId=80246736-370a-4760-a519-ca9ac42f5f82
+[2025-10-19 22:11:24,337] INFO hw6-consumer - Wrote widget to s3://usu-cs5270-sky-web/widgets/mary-matthews/e6573e6f-191c-40c1-b496-2e71ae363106
+[2025-10-19 22:11:24,421] INFO hw6-consumer - Consumed request key=1760926214382 requestId=f2afa3ac-1706-4301-b43f-6065a1269407
+[2025-10-19 22:11:24,421] WARNING hw6-consumer - update not implemented, skipping requestId=f2afa3ac-1706-4301-b43f-6065a1269407
+[2025-10-19 22:11:24,498] INFO hw6-consumer - Consumed request key=1760926214532 requestId=e0a1dcf8-b31c-4611-87e9-736ccb900d9f
+[2025-10-19 22:11:24,499] WARNING hw6-consumer - delete not implemented, skipping requestId=e0a1dcf8-b31c-4611-87e9-736ccb900d9f
+[2025-10-19 22:11:24,587] INFO hw6-consumer - Consumed request key=1760926214673 requestId=d78d3651-35b7-4469-b7f7-7830ee6784b6
+[2025-10-19 22:11:24,587] WARNING hw6-consumer - update not implemented, skipping requestId=d78d3651-35b7-4469-b7f7-7830ee6784b6
+[2025-10-19 22:11:24,670] INFO hw6-consumer - Consumed request key=1760926214820 requestId=3ffc53fd-3c42-42bb-9013-0ea305cd8ebe
+[2025-10-19 22:11:24,671] WARNING hw6-consumer - update not implemented, skipping requestId=3ffc53fd-3c42-42bb-9013-0ea305cd8ebe

@@ -12,6 +12,10 @@ class DDBWidgetStore(WidgetStore):
 
     def create(self, req: WidgetRequest) -> None:
         item = flatten_widget_attributes(req)
+
+        if "id" not in item:
+            item["id"] = req.widgetId 
+
         try:
             self.ddb.put_item(Item=item)
             self.logger.info(f"PutItem widgetId={req.widgetId} owner={req.owner} into {self.table_name}")

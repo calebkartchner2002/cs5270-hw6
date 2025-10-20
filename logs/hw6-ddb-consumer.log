@@ -1,0 +1,551 @@
+[2025-10-19 22:47:44,045] INFO hw6-consumer - Starting HW6 consumer
+[2025-10-19 22:47:44,045] INFO hw6-consumer - backend=ddb requests_bucket=usu-cs5270-sky-requests widgets_bucket=None widgets_table=widgets
+[2025-10-19 22:47:44,545] INFO hw6-consumer - Consumed request key=1760927168310 requestId=b5cd2fa9-3311-4ad2-882a-9b7bd65f754c
+[2025-10-19 22:47:44,656] INFO hw6-consumer - PutItem widgetId=b5d914db-5dc2-4e1c-ae9e-05e9f2c21110 owner=Henry Hops into widgets
+[2025-10-19 22:47:44,740] INFO hw6-consumer - Consumed request key=1760927168364 requestId=66e80f4a-a2ec-40c8-9d63-227459c034ed
+[2025-10-19 22:47:44,758] INFO hw6-consumer - PutItem widgetId=e6311de0-5e14-4e34-99df-11a12aa726cc owner=Sue Smith into widgets
+[2025-10-19 22:47:44,854] INFO hw6-consumer - Consumed request key=1760927168418 requestId=bc0b5af2-2d0d-4025-9d4f-247e298fb77f
+[2025-10-19 22:47:44,871] INFO hw6-consumer - PutItem widgetId=f9a4def2-abde-49ab-83ee-11c82e482b96 owner=Mary Matthews into widgets
+[2025-10-19 22:47:44,967] INFO hw6-consumer - Consumed request key=1760927168481 requestId=86247b99-acb7-4a7b-861b-ca6474455b02
+[2025-10-19 22:47:45,005] INFO hw6-consumer - PutItem widgetId=cdd52d4e-08be-475b-9222-9f7498e330e3 owner=Henry Hops into widgets
+[2025-10-19 22:47:45,091] INFO hw6-consumer - Consumed request key=1760927168533 requestId=fc1bdd41-3167-48ef-980f-220b2a197369
+[2025-10-19 22:47:45,112] INFO hw6-consumer - PutItem widgetId=6c2e7b4c-2610-40e0-89e3-2a82ec6ce570 owner=Henry Hops into widgets
+[2025-10-19 22:47:45,256] INFO hw6-consumer - Consumed request key=1760927168598 requestId=8382a216-11cf-4715-9ef6-ad995caa6833
+[2025-10-19 22:47:45,274] INFO hw6-consumer - PutItem widgetId=e6661a45-1337-41a2-9530-c8b75390f615 owner=Sue Smith into widgets
+[2025-10-19 22:47:45,354] INFO hw6-consumer - Consumed request key=1760927168649 requestId=d2611cf3-9905-4e08-b1b8-e0f72db74a41
+[2025-10-19 22:47:45,355] WARNING hw6-consumer - delete not implemented, skipping requestId=d2611cf3-9905-4e08-b1b8-e0f72db74a41
+[2025-10-19 22:47:45,453] INFO hw6-consumer - Consumed request key=1760927168800 requestId=eed0d3fb-e6ed-407b-b723-89fc4f1089f2
+[2025-10-19 22:47:45,472] INFO hw6-consumer - PutItem widgetId=cda27b32-c8c9-458c-b3a4-5fc2c9718f4f owner=Henry Hops into widgets
+[2025-10-19 22:47:45,556] INFO hw6-consumer - Consumed request key=1760927168861 requestId=e0ed42d1-8f72-49a1-a8fd-a08fb6bbe0a9
+[2025-10-19 22:47:45,585] INFO hw6-consumer - PutItem widgetId=3de066f0-78c9-4cdd-80b8-da8fdb6ce00b owner=Henry Hops into widgets
+[2025-10-19 22:47:45,710] INFO hw6-consumer - Consumed request key=1760927168940 requestId=f38ff035-54da-4ea5-9119-b7b71a0dcd6b
+[2025-10-19 22:47:45,726] INFO hw6-consumer - PutItem widgetId=d8585876-6527-40a5-a075-a4b45390e4de owner=Henry Hops into widgets
+[2025-10-19 22:47:45,818] INFO hw6-consumer - Consumed request key=1760927168993 requestId=bbf3369e-2f87-4747-969c-f43869e1d462
+[2025-10-19 22:47:45,835] INFO hw6-consumer - PutItem widgetId=be51819d-2f74-4e8b-89f3-de6e6e277458 owner=Sue Smith into widgets
+[2025-10-19 22:47:45,964] INFO hw6-consumer - Consumed request key=1760927169053 requestId=bd871180-a3ad-4e9f-a357-8dd3b1a867e7
+[2025-10-19 22:47:45,964] WARNING hw6-consumer - update not implemented, skipping requestId=bd871180-a3ad-4e9f-a357-8dd3b1a867e7
+[2025-10-19 22:47:46,057] INFO hw6-consumer - Consumed request key=1760927169217 requestId=f745c5fd-48fc-4212-8fb6-cbd2bbb78551
+[2025-10-19 22:47:46,071] INFO hw6-consumer - PutItem widgetId=a790f1fc-cdad-4cac-ace5-276f3feca86e owner=John Jones into widgets
+[2025-10-19 22:47:46,195] INFO hw6-consumer - Consumed request key=1760927169280 requestId=5601dac1-006b-445a-a594-43962384279a
+[2025-10-19 22:47:46,196] WARNING hw6-consumer - update not implemented, skipping requestId=5601dac1-006b-445a-a594-43962384279a
+[2025-10-19 22:47:46,287] INFO hw6-consumer - Consumed request key=1760927169442 requestId=94bf7c3d-d32e-4562-9546-6c3b0882db97
+[2025-10-19 22:47:46,310] INFO hw6-consumer - PutItem widgetId=aedd5298-5ea8-4cab-9bd0-ae251677d017 owner=Mary Matthews into widgets
+[2025-10-19 22:47:46,408] INFO hw6-consumer - Consumed request key=1760927169496 requestId=d5c66926-1c3e-41a4-bacb-250acda3a40b
+[2025-10-19 22:47:46,425] INFO hw6-consumer - PutItem widgetId=52e830d1-0fe6-4851-8284-5f9e7afdfb8e owner=Mary Matthews into widgets
+[2025-10-19 22:47:46,510] INFO hw6-consumer - Consumed request key=1760927169549 requestId=8cd8ce21-4339-4697-9c28-7ff200912f61
+[2025-10-19 22:47:46,511] WARNING hw6-consumer - update not implemented, skipping requestId=8cd8ce21-4339-4697-9c28-7ff200912f61
+[2025-10-19 22:47:46,601] INFO hw6-consumer - Consumed request key=1760927169698 requestId=3453b289-1381-46de-86cb-6bacd75ae9f6
+[2025-10-19 22:47:46,602] WARNING hw6-consumer - update not implemented, skipping requestId=3453b289-1381-46de-86cb-6bacd75ae9f6
+[2025-10-19 22:47:46,695] INFO hw6-consumer - Consumed request key=1760927169852 requestId=5d9fcdab-4bc8-4a25-b578-9285ae86c4a3
+[2025-10-19 22:47:46,711] INFO hw6-consumer - PutItem widgetId=07019c03-1bbc-48ae-bfb3-63e56b341db8 owner=Sue Smith into widgets
+[2025-10-19 22:47:46,890] INFO hw6-consumer - Consumed request key=1760927169908 requestId=06fc38f1-d010-48f6-88b2-1782c450046b
+[2025-10-19 22:47:46,890] WARNING hw6-consumer - update not implemented, skipping requestId=06fc38f1-d010-48f6-88b2-1782c450046b
+[2025-10-19 22:47:46,967] INFO hw6-consumer - Consumed request key=1760927170066 requestId=870f5271-391b-4ff9-ba18-57bf35ba9ff6
+[2025-10-19 22:47:46,968] WARNING hw6-consumer - delete not implemented, skipping requestId=870f5271-391b-4ff9-ba18-57bf35ba9ff6
+[2025-10-19 22:47:47,110] INFO hw6-consumer - Consumed request key=1760927170249 requestId=459b76f9-4d49-41f9-b222-55677b056cf4
+[2025-10-19 22:47:47,125] INFO hw6-consumer - PutItem widgetId=3e313ed7-68a9-49c8-95d2-08a399220427 owner=Henry Hops into widgets
+[2025-10-19 22:47:47,246] INFO hw6-consumer - Consumed request key=1760927170305 requestId=6b282217-4d30-4ebf-91a7-40d2af76e1a4
+[2025-10-19 22:47:47,263] INFO hw6-consumer - PutItem widgetId=3d5b2e80-6b3e-4e71-8f4d-46eae26d5e6d owner=Sue Smith into widgets
+[2025-10-19 22:47:47,354] INFO hw6-consumer - Consumed request key=1760927170356 requestId=06b7f2ba-e61a-4761-8bd3-c122ca746d09
+[2025-10-19 22:47:47,370] INFO hw6-consumer - PutItem widgetId=40e0b1b7-c69e-4ec3-bf71-38a826313ad6 owner=Henry Hops into widgets
+[2025-10-19 22:47:47,453] INFO hw6-consumer - Consumed request key=1760927170407 requestId=e64b8ff0-20f6-4bd1-81f0-6b6a2dfa13f4
+[2025-10-19 22:47:47,453] WARNING hw6-consumer - update not implemented, skipping requestId=e64b8ff0-20f6-4bd1-81f0-6b6a2dfa13f4
+[2025-10-19 22:47:47,554] INFO hw6-consumer - Consumed request key=1760927170558 requestId=bc9df23e-dbbe-43b8-9ee6-b05f61195cd0
+[2025-10-19 22:47:47,555] WARNING hw6-consumer - delete not implemented, skipping requestId=bc9df23e-dbbe-43b8-9ee6-b05f61195cd0
+[2025-10-19 22:47:47,648] INFO hw6-consumer - Consumed request key=1760927170849 requestId=b546afcd-e0ab-462f-8d56-9cad363268ca
+[2025-10-19 22:47:47,648] WARNING hw6-consumer - update not implemented, skipping requestId=b546afcd-e0ab-462f-8d56-9cad363268ca
+[2025-10-19 22:47:47,779] INFO hw6-consumer - Consumed request key=1760927171035 requestId=c1af544b-1c26-4089-90fa-45c8dc74f4db
+[2025-10-19 22:47:47,795] INFO hw6-consumer - PutItem widgetId=8017ceff-9f5e-4faa-bea5-f4f1e9e913ba owner=Henry Hops into widgets
+[2025-10-19 22:47:47,900] INFO hw6-consumer - Consumed request key=1760927171129 requestId=f5f900a7-6ae6-4352-8d37-c3c1a15f1de8
+[2025-10-19 22:47:47,900] WARNING hw6-consumer - update not implemented, skipping requestId=f5f900a7-6ae6-4352-8d37-c3c1a15f1de8
+[2025-10-19 22:47:47,993] INFO hw6-consumer - Consumed request key=1760927171330 requestId=d3c3fba6-9ffc-4554-bbb2-465632bd5cd6
+[2025-10-19 22:47:48,036] INFO hw6-consumer - PutItem widgetId=45151a22-c986-4073-a48f-7efed8f2d80e owner=Sue Smith into widgets
+[2025-10-19 22:47:48,155] INFO hw6-consumer - Consumed request key=1760927171411 requestId=1af96e9d-98f0-4d21-8da4-dddf8d78abb4
+[2025-10-19 22:47:48,155] WARNING hw6-consumer - update not implemented, skipping requestId=1af96e9d-98f0-4d21-8da4-dddf8d78abb4
+[2025-10-19 22:47:48,297] INFO hw6-consumer - Consumed request key=1760927171586 requestId=1c59dd70-f013-465e-b19b-fd98340240e3
+[2025-10-19 22:47:48,311] INFO hw6-consumer - PutItem widgetId=65b23828-e913-4662-8d80-46e3b001e26c owner=Henry Hops into widgets
+[2025-10-19 22:47:48,423] INFO hw6-consumer - Consumed request key=1760927171725 requestId=021a777f-67d4-4be5-9c7a-7f4bd652f454
+[2025-10-19 22:47:48,442] INFO hw6-consumer - PutItem widgetId=442b67e0-8858-4c6c-8dcf-c8b3c4d135a1 owner=John Jones into widgets
+[2025-10-19 22:47:48,657] INFO hw6-consumer - Consumed request key=1760927171774 requestId=57f19e0b-ae9f-4baf-a4b5-27eafd44589f
+[2025-10-19 22:47:48,676] INFO hw6-consumer - PutItem widgetId=1183dd9f-6915-46bf-9367-3cb46c4ae8f6 owner=Henry Hops into widgets
+[2025-10-19 22:47:48,771] INFO hw6-consumer - Consumed request key=1760927171835 requestId=fe4d7a7c-ab63-4db3-9400-293c275dda3f
+[2025-10-19 22:47:48,772] WARNING hw6-consumer - update not implemented, skipping requestId=fe4d7a7c-ab63-4db3-9400-293c275dda3f
+[2025-10-19 22:47:48,868] INFO hw6-consumer - Consumed request key=1760927171985 requestId=664588c1-f1db-4eba-9480-f9706680ed5d
+[2025-10-19 22:47:48,888] INFO hw6-consumer - PutItem widgetId=e800f2a9-47ba-421d-a49d-ddbb8309de35 owner=Sue Smith into widgets
+[2025-10-19 22:47:48,994] INFO hw6-consumer - Consumed request key=1760927172040 requestId=6f2f0edc-2de4-4e43-bd86-e528f3920277
+[2025-10-19 22:47:49,012] INFO hw6-consumer - PutItem widgetId=88ef4228-e303-4021-83a4-08086e8cffe2 owner=Sue Smith into widgets
+[2025-10-19 22:47:49,112] INFO hw6-consumer - Consumed request key=1760927172093 requestId=9ed63877-dde1-47ee-b745-855586a3a4a9
+[2025-10-19 22:47:49,131] INFO hw6-consumer - PutItem widgetId=cec066ad-f900-420c-b0f9-dbcdab13b894 owner=Mary Matthews into widgets
+[2025-10-19 22:47:49,227] INFO hw6-consumer - Consumed request key=1760927172153 requestId=70add287-3b88-4d96-b1de-e207e62be386
+[2025-10-19 22:47:49,247] INFO hw6-consumer - PutItem widgetId=73bc87c7-bdf3-4596-a14b-1407d4ab495c owner=Mary Matthews into widgets
+[2025-10-19 22:47:49,329] INFO hw6-consumer - Consumed request key=1760927172241 requestId=88cadb9a-9a30-42f8-9c77-478131e9fb47
+[2025-10-19 22:47:49,346] INFO hw6-consumer - PutItem widgetId=7c60cc32-4a5a-4fcc-9721-a157afb00975 owner=Henry Hops into widgets
+[2025-10-19 22:47:49,431] INFO hw6-consumer - Consumed request key=1760927172296 requestId=b824c73b-7d87-48a6-acc6-94b4d17e9f1b
+[2025-10-19 22:47:49,453] INFO hw6-consumer - PutItem widgetId=4426ec28-a42e-44f9-bf7f-3f6a39fb95d3 owner=John Jones into widgets
+[2025-10-19 22:47:49,545] INFO hw6-consumer - Consumed request key=1760927172344 requestId=e1f98174-48cc-4b95-94e4-5858774c6e12
+[2025-10-19 22:47:49,546] WARNING hw6-consumer - update not implemented, skipping requestId=e1f98174-48cc-4b95-94e4-5858774c6e12
+[2025-10-19 22:47:49,653] INFO hw6-consumer - Consumed request key=1760927172499 requestId=c6819264-7ea7-41a0-bd1c-14f14c45808d
+[2025-10-19 22:47:49,654] WARNING hw6-consumer - update not implemented, skipping requestId=c6819264-7ea7-41a0-bd1c-14f14c45808d
+[2025-10-19 22:47:49,737] INFO hw6-consumer - Consumed request key=1760927172664 requestId=67c98c11-74c2-4c28-b397-158ffe6f6920
+[2025-10-19 22:47:49,737] WARNING hw6-consumer - update not implemented, skipping requestId=67c98c11-74c2-4c28-b397-158ffe6f6920
+[2025-10-19 22:47:49,837] INFO hw6-consumer - Consumed request key=1760927173022 requestId=096db89d-f13f-49d1-8529-abd167580b6c
+[2025-10-19 22:47:49,838] WARNING hw6-consumer - update not implemented, skipping requestId=096db89d-f13f-49d1-8529-abd167580b6c
+[2025-10-19 22:47:49,961] INFO hw6-consumer - Consumed request key=1760927173173 requestId=6b8bc9a3-c776-4151-bc04-d1f89ad856ee
+[2025-10-19 22:47:49,978] INFO hw6-consumer - PutItem widgetId=492b5b35-c44f-43c5-9fd7-1fb3d626b1b3 owner=John Jones into widgets
+[2025-10-19 22:47:50,087] INFO hw6-consumer - Consumed request key=1760927173253 requestId=9f546b46-12de-4e78-9c35-2cb2d26116f1
+[2025-10-19 22:47:50,088] WARNING hw6-consumer - update not implemented, skipping requestId=9f546b46-12de-4e78-9c35-2cb2d26116f1
+[2025-10-19 22:47:50,180] INFO hw6-consumer - Consumed request key=1760927173402 requestId=5edaea39-fe72-4d11-af9a-e02f05ee9364
+[2025-10-19 22:47:50,198] INFO hw6-consumer - PutItem widgetId=d5dd88bd-5d70-45de-8aa5-1fd96725623c owner=Henry Hops into widgets
+[2025-10-19 22:47:50,418] INFO hw6-consumer - Consumed request key=1760927173456 requestId=53b16a7f-9160-4d1f-9d7c-f678e94bc046
+[2025-10-19 22:47:50,419] WARNING hw6-consumer - update not implemented, skipping requestId=53b16a7f-9160-4d1f-9d7c-f678e94bc046
+[2025-10-19 22:47:50,513] INFO hw6-consumer - Consumed request key=1760927173611 requestId=023315ec-0dda-4155-8108-bb77d31b2f1b
+[2025-10-19 22:47:50,514] WARNING hw6-consumer - update not implemented, skipping requestId=023315ec-0dda-4155-8108-bb77d31b2f1b
+[2025-10-19 22:47:50,603] INFO hw6-consumer - Consumed request key=1760927173776 requestId=664433aa-0c06-4d9a-bf27-4ae206af0a02
+[2025-10-19 22:47:50,623] INFO hw6-consumer - PutItem widgetId=5bfa1680-9689-463a-baf0-fdb12177d2c1 owner=Sue Smith into widgets
+[2025-10-19 22:47:50,707] INFO hw6-consumer - Consumed request key=1760927173839 requestId=744697e5-544b-44c5-917d-8771efb1f077
+[2025-10-19 22:47:50,707] WARNING hw6-consumer - delete not implemented, skipping requestId=744697e5-544b-44c5-917d-8771efb1f077
+[2025-10-19 22:47:50,838] INFO hw6-consumer - Consumed request key=1760927173981 requestId=6f3681a3-5c77-47e9-b819-987fb220fac0
+[2025-10-19 22:47:50,856] INFO hw6-consumer - PutItem widgetId=100e965d-7940-470b-9bfb-5f82309b1ac7 owner=Mary Matthews into widgets
+[2025-10-19 22:47:50,949] INFO hw6-consumer - Consumed request key=1760927174033 requestId=410f36e8-82fb-4edb-a37d-b7e054ea5bf6
+[2025-10-19 22:47:50,968] INFO hw6-consumer - PutItem widgetId=bd2d1920-3b14-40c7-8c75-03430e94963c owner=Sue Smith into widgets
+[2025-10-19 22:47:51,048] INFO hw6-consumer - Consumed request key=1760927174082 requestId=7dbca54a-e6ec-4a2e-8e2d-0eaac8218beb
+[2025-10-19 22:47:51,048] WARNING hw6-consumer - delete not implemented, skipping requestId=7dbca54a-e6ec-4a2e-8e2d-0eaac8218beb
+[2025-10-19 22:47:51,183] INFO hw6-consumer - Consumed request key=1760927174225 requestId=18bee7b1-a500-4810-b2f7-22522a831691
+[2025-10-19 22:47:51,200] INFO hw6-consumer - PutItem widgetId=9b8945df-f24b-4b61-8714-5b1a66516803 owner=Henry Hops into widgets
+[2025-10-19 22:47:51,292] INFO hw6-consumer - Consumed request key=1760927174282 requestId=093fe1da-dcf9-4444-8354-ad142e1ab962
+[2025-10-19 22:47:51,309] INFO hw6-consumer - PutItem widgetId=96e3b765-e5f9-48f3-95a4-50e584155fdd owner=Henry Hops into widgets
+[2025-10-19 22:47:51,435] INFO hw6-consumer - Consumed request key=1760927174341 requestId=d52155bf-7f92-4d82-89f2-094370732fe0
+[2025-10-19 22:47:51,435] WARNING hw6-consumer - update not implemented, skipping requestId=d52155bf-7f92-4d82-89f2-094370732fe0
+[2025-10-19 22:47:51,541] INFO hw6-consumer - Consumed request key=1760927174515 requestId=2c6f0c42-82ab-46c2-9a1e-e461207da09f
+[2025-10-19 22:47:51,558] INFO hw6-consumer - PutItem widgetId=a7329d2e-b4d2-4850-8d7a-8e543185f3c1 owner=Mary Matthews into widgets
+[2025-10-19 22:47:51,647] INFO hw6-consumer - Consumed request key=1760927174563 requestId=d0bf9a78-6a36-4492-befc-0cbe9ca247bd
+[2025-10-19 22:47:51,673] INFO hw6-consumer - PutItem widgetId=ed7ea071-6710-4eb5-adcb-61226f09735a owner=Mary Matthews into widgets
+[2025-10-19 22:47:51,788] INFO hw6-consumer - Consumed request key=1760927174615 requestId=4bc584ce-1601-4081-9554-c7949f628a09
+[2025-10-19 22:47:51,806] INFO hw6-consumer - PutItem widgetId=754d6ea6-ffe6-4ddf-83f2-6240c7c6a5c3 owner=Sue Smith into widgets
+[2025-10-19 22:47:51,910] INFO hw6-consumer - Consumed request key=1760927174671 requestId=7b6cc4ab-f42e-48fb-9172-6d348f8febeb
+[2025-10-19 22:47:51,928] INFO hw6-consumer - PutItem widgetId=5abc7a99-5ac1-4dfb-b01c-0ba3de7db73a owner=Sue Smith into widgets
+[2025-10-19 22:47:52,044] INFO hw6-consumer - Consumed request key=1760927174727 requestId=81eab162-6a5d-4575-b961-2b5680fe6aab
+[2025-10-19 22:47:52,044] WARNING hw6-consumer - update not implemented, skipping requestId=81eab162-6a5d-4575-b961-2b5680fe6aab
+[2025-10-19 22:47:52,142] INFO hw6-consumer - Consumed request key=1760927174874 requestId=82ea4da4-ac9b-4566-b1fd-c54fb895680d
+[2025-10-19 22:47:52,161] INFO hw6-consumer - PutItem widgetId=3441abf9-bab3-410c-9d5d-5cfd20b0c292 owner=Mary Matthews into widgets
+[2025-10-19 22:47:52,280] INFO hw6-consumer - Consumed request key=1760927174930 requestId=10c0029d-a25e-41f8-ac18-484259ed7786
+[2025-10-19 22:47:52,297] INFO hw6-consumer - PutItem widgetId=517e45cb-d444-4b3f-9372-01ee6274269f owner=Mary Matthews into widgets
+[2025-10-19 22:47:52,381] INFO hw6-consumer - Consumed request key=1760927174995 requestId=3fb698ab-4f27-4bc6-a537-5c085b6f47dc
+[2025-10-19 22:47:52,381] WARNING hw6-consumer - delete not implemented, skipping requestId=3fb698ab-4f27-4bc6-a537-5c085b6f47dc
+[2025-10-19 22:47:52,635] INFO hw6-consumer - Consumed request key=1760927175175 requestId=230f79bf-fb85-4ad5-bcbd-e86c8bd2fa07
+[2025-10-19 22:47:52,635] WARNING hw6-consumer - update not implemented, skipping requestId=230f79bf-fb85-4ad5-bcbd-e86c8bd2fa07
+[2025-10-19 22:47:52,787] INFO hw6-consumer - Consumed request key=1760927175335 requestId=0bb45063-06b8-48d5-af66-61d859833960
+[2025-10-19 22:47:52,787] WARNING hw6-consumer - update not implemented, skipping requestId=0bb45063-06b8-48d5-af66-61d859833960
+[2025-10-19 22:47:52,918] INFO hw6-consumer - Consumed request key=1760927175488 requestId=a69566d9-40fb-492c-95a7-afddc62439d0
+[2025-10-19 22:47:52,937] INFO hw6-consumer - PutItem widgetId=3d4db088-85a5-44a7-99cd-f3b768eae43b owner=Sue Smith into widgets
+[2025-10-19 22:47:53,078] INFO hw6-consumer - Consumed request key=1760927175536 requestId=4957fd8c-6b9f-4af4-aca5-62743b384482
+[2025-10-19 22:47:53,096] INFO hw6-consumer - PutItem widgetId=1c4cf98f-0bf3-44f9-906c-3e76e3e6417c owner=Henry Hops into widgets
+[2025-10-19 22:47:53,209] INFO hw6-consumer - Consumed request key=1760927175583 requestId=7f3c6991-d1dc-4e25-a395-4b9920eab9f8
+[2025-10-19 22:47:53,209] WARNING hw6-consumer - update not implemented, skipping requestId=7f3c6991-d1dc-4e25-a395-4b9920eab9f8
+[2025-10-19 22:47:53,336] INFO hw6-consumer - Consumed request key=1760927175755 requestId=7da50d06-d032-4f4d-b8d0-90ca25030016
+[2025-10-19 22:47:53,362] INFO hw6-consumer - PutItem widgetId=0bf2b29f-4957-4a06-9c1e-75ca7c6254f6 owner=John Jones into widgets
+[2025-10-19 22:47:53,495] INFO hw6-consumer - Consumed request key=1760927175809 requestId=bd57ed38-309d-48e0-8090-af63c3e7178a
+[2025-10-19 22:47:53,513] INFO hw6-consumer - PutItem widgetId=28848e56-cd6d-4901-befe-b043782634d4 owner=Mary Matthews into widgets
+[2025-10-19 22:47:53,608] INFO hw6-consumer - Consumed request key=1760927175853 requestId=a97b866b-7115-45e5-b842-894a28101a13
+[2025-10-19 22:47:53,608] WARNING hw6-consumer - delete not implemented, skipping requestId=a97b866b-7115-45e5-b842-894a28101a13
+[2025-10-19 22:47:53,718] INFO hw6-consumer - Consumed request key=1760927175997 requestId=d432fe8b-b1ab-4167-9d0e-fc9431cdc0a9
+[2025-10-19 22:47:53,718] WARNING hw6-consumer - update not implemented, skipping requestId=d432fe8b-b1ab-4167-9d0e-fc9431cdc0a9
+[2025-10-19 22:47:53,808] INFO hw6-consumer - Consumed request key=1760927176149 requestId=7bb8fbee-1570-4184-a21b-8210829e515f
+[2025-10-19 22:47:53,826] INFO hw6-consumer - PutItem widgetId=564f8fcc-e411-41e6-958d-726f34870fe0 owner=Sue Smith into widgets
+[2025-10-19 22:47:53,925] INFO hw6-consumer - Consumed request key=1760927176203 requestId=f484cbae-d92a-413f-ad2d-3fa721a00169
+[2025-10-19 22:47:53,940] INFO hw6-consumer - PutItem widgetId=517e2f99-ef2f-4d4d-87ab-bbfb190d575e owner=Henry Hops into widgets
+[2025-10-19 22:47:54,069] INFO hw6-consumer - Consumed request key=1760927176246 requestId=9b66bbae-6782-480c-8614-d02ec4e80c56
+[2025-10-19 22:47:54,070] WARNING hw6-consumer - update not implemented, skipping requestId=9b66bbae-6782-480c-8614-d02ec4e80c56
+[2025-10-19 22:47:54,185] INFO hw6-consumer - Consumed request key=1760927176402 requestId=ea54d5bf-1161-4fd1-90ab-5c58d6668e05
+[2025-10-19 22:47:54,200] INFO hw6-consumer - PutItem widgetId=bc5b5870-93d0-47a2-90c1-52315134beb3 owner=Mary Matthews into widgets
+[2025-10-19 22:47:54,330] INFO hw6-consumer - Consumed request key=1760927176447 requestId=dcb0b1a5-0bd8-4452-8969-d50486ad882d
+[2025-10-19 22:47:54,347] INFO hw6-consumer - PutItem widgetId=adaf2147-97bb-45a4-8cb9-d1918b21ca92 owner=Mary Matthews into widgets
+[2025-10-19 22:47:54,460] INFO hw6-consumer - Consumed request key=1760927176494 requestId=8e42a2b2-dee3-47c1-a88d-4b3a543c9454
+[2025-10-19 22:47:54,483] INFO hw6-consumer - PutItem widgetId=5dcefb1d-bb5a-4690-9c3a-7b6e61a84cfb owner=John Jones into widgets
+[2025-10-19 22:47:54,606] INFO hw6-consumer - Consumed request key=1760927176541 requestId=a3e71cf6-63ef-4dbc-b483-26571c77b283
+[2025-10-19 22:47:54,606] WARNING hw6-consumer - update not implemented, skipping requestId=a3e71cf6-63ef-4dbc-b483-26571c77b283
+[2025-10-19 22:47:54,714] INFO hw6-consumer - Consumed request key=1760927176691 requestId=7f703f5c-8c80-4efc-b8ff-a2fd8cf6d10d
+[2025-10-19 22:47:54,714] WARNING hw6-consumer - update not implemented, skipping requestId=7f703f5c-8c80-4efc-b8ff-a2fd8cf6d10d
+[2025-10-19 22:47:54,832] INFO hw6-consumer - Consumed request key=1760927176852 requestId=13047a44-9070-49f2-9090-69cb2b875571
+[2025-10-19 22:47:54,848] INFO hw6-consumer - PutItem widgetId=99390547-5b3a-478e-9de0-3f783a4ab2bd owner=Henry Hops into widgets
+[2025-10-19 22:47:54,943] INFO hw6-consumer - Consumed request key=1760927176905 requestId=6366ac5e-828e-4784-a834-a818f16e9c42
+[2025-10-19 22:47:54,957] INFO hw6-consumer - PutItem widgetId=f8fdc942-29d6-4bd6-85cb-3fe6981a55c5 owner=Sue Smith into widgets
+[2025-10-19 22:47:55,089] INFO hw6-consumer - Consumed request key=1760927176954 requestId=52ea9c09-fd6e-4846-9335-b751871c14cb
+[2025-10-19 22:47:55,107] INFO hw6-consumer - PutItem widgetId=c68f7de7-51ba-4377-98fc-95205bf47449 owner=Mary Matthews into widgets
+[2025-10-19 22:47:55,221] INFO hw6-consumer - Consumed request key=1760927177005 requestId=fbe118ad-556d-4009-afc5-76e59af9697f
+[2025-10-19 22:47:55,222] WARNING hw6-consumer - update not implemented, skipping requestId=fbe118ad-556d-4009-afc5-76e59af9697f
+[2025-10-19 22:47:55,309] INFO hw6-consumer - Consumed request key=1760927177160 requestId=c975135c-4f86-4be5-a4ca-5088765e49e7
+[2025-10-19 22:47:55,309] WARNING hw6-consumer - delete not implemented, skipping requestId=c975135c-4f86-4be5-a4ca-5088765e49e7
+[2025-10-19 22:47:55,403] INFO hw6-consumer - Consumed request key=1760927177310 requestId=e1247695-5e1b-4eff-b904-c7fa45984c81
+[2025-10-19 22:47:55,419] INFO hw6-consumer - PutItem widgetId=867167aa-831d-48a8-a3c1-56ee9de2b1e4 owner=Sue Smith into widgets
+[2025-10-19 22:47:55,510] INFO hw6-consumer - Consumed request key=1760927177360 requestId=5ef563ef-9b49-4831-bf45-7d5a512fbd3f
+[2025-10-19 22:47:55,525] INFO hw6-consumer - PutItem widgetId=03d755ac-d1f3-461d-8394-be5aa8d04f43 owner=Henry Hops into widgets
+[2025-10-19 22:47:55,621] INFO hw6-consumer - Consumed request key=1760927177401 requestId=8e4c7991-ff51-4f0e-956b-c472d0c376c0
+[2025-10-19 22:47:55,637] INFO hw6-consumer - PutItem widgetId=9a6b07f6-ba31-4abb-9feb-67c8cd657b27 owner=Mary Matthews into widgets
+[2025-10-19 22:47:55,759] INFO hw6-consumer - Consumed request key=1760927177456 requestId=001060aa-a69a-4f55-a489-da9a24b6a807
+[2025-10-19 22:47:55,777] INFO hw6-consumer - PutItem widgetId=280b469e-3ec0-4730-94fe-7d23cd9eebf8 owner=Henry Hops into widgets
+[2025-10-19 22:47:55,884] INFO hw6-consumer - Consumed request key=1760927177500 requestId=df88f60a-91ec-4edf-a8ff-a6d77b32827b
+[2025-10-19 22:47:55,884] WARNING hw6-consumer - update not implemented, skipping requestId=df88f60a-91ec-4edf-a8ff-a6d77b32827b
+[2025-10-19 22:47:55,970] INFO hw6-consumer - Consumed request key=1760927177643 requestId=a266843c-ef7c-4845-818c-506a3146bbf5
+[2025-10-19 22:47:55,970] WARNING hw6-consumer - update not implemented, skipping requestId=a266843c-ef7c-4845-818c-506a3146bbf5
+[2025-10-19 22:47:56,059] INFO hw6-consumer - Consumed request key=1760927177796 requestId=9ccced7f-7a49-47e7-9670-74e46ffd223a
+[2025-10-19 22:47:56,060] WARNING hw6-consumer - delete not implemented, skipping requestId=9ccced7f-7a49-47e7-9670-74e46ffd223a
+[2025-10-19 22:47:56,158] INFO hw6-consumer - Consumed request key=1760927177940 requestId=1d034c7d-d0b1-463d-ba32-3f524c8f2b71
+[2025-10-19 22:47:56,175] INFO hw6-consumer - PutItem widgetId=245cdae1-b0c3-4342-9885-4500b68cb6b4 owner=Mary Matthews into widgets
+[2025-10-19 22:47:56,297] INFO hw6-consumer - Consumed request key=1760927178027 requestId=fd884ee9-df72-4f35-9143-4b1d78f132b8
+[2025-10-19 22:47:56,314] INFO hw6-consumer - PutItem widgetId=048f0cb0-9d21-4b63-b2ba-47e8ac115f5f owner=Sue Smith into widgets
+[2025-10-19 22:47:56,414] INFO hw6-consumer - Consumed request key=1760927178084 requestId=4ed9c98a-dfa7-45bb-8b48-0447503878c7
+[2025-10-19 22:47:56,415] WARNING hw6-consumer - update not implemented, skipping requestId=4ed9c98a-dfa7-45bb-8b48-0447503878c7
+[2025-10-19 22:47:56,560] INFO hw6-consumer - Consumed request key=1760927178335 requestId=304537f3-b8d5-49c3-9300-2fc9c36d843f
+[2025-10-19 22:47:56,560] WARNING hw6-consumer - update not implemented, skipping requestId=304537f3-b8d5-49c3-9300-2fc9c36d843f
+[2025-10-19 22:47:56,652] INFO hw6-consumer - Consumed request key=1760927178486 requestId=b3f842f7-7560-4efd-bf52-6b7068bddfa4
+[2025-10-19 22:47:56,652] WARNING hw6-consumer - delete not implemented, skipping requestId=b3f842f7-7560-4efd-bf52-6b7068bddfa4
+[2025-10-19 22:47:56,853] INFO hw6-consumer - Consumed request key=1760927178633 requestId=5211c780-4076-4d1f-8f57-a592ad06b640
+[2025-10-19 22:47:56,854] WARNING hw6-consumer - delete not implemented, skipping requestId=5211c780-4076-4d1f-8f57-a592ad06b640
+[2025-10-19 22:47:56,941] INFO hw6-consumer - Consumed request key=1760927178778 requestId=be00fdef-cdfc-4d0d-8f9d-a03b4fb23e5c
+[2025-10-19 22:47:56,942] WARNING hw6-consumer - update not implemented, skipping requestId=be00fdef-cdfc-4d0d-8f9d-a03b4fb23e5c
+[2025-10-19 22:47:57,077] INFO hw6-consumer - Consumed request key=1760927178929 requestId=7681de08-f04c-4fa9-86f2-e3cd43afa9da
+[2025-10-19 22:47:57,094] INFO hw6-consumer - PutItem widgetId=c96cf2d8-1b65-4827-9942-4506de4a3065 owner=Henry Hops into widgets
+[2025-10-19 22:47:57,204] INFO hw6-consumer - Consumed request key=1760927178991 requestId=f50fef15-4643-4df4-8e4a-7c37b19adb5d
+[2025-10-19 22:47:57,226] INFO hw6-consumer - PutItem widgetId=6f7f11cb-b0cd-4a47-b223-9c17f8108fac owner=Sue Smith into widgets
+[2025-10-19 22:47:57,332] INFO hw6-consumer - Consumed request key=1760927179045 requestId=c17eaa16-9033-41a9-a5f3-955aefb92fbd
+[2025-10-19 22:47:57,333] WARNING hw6-consumer - update not implemented, skipping requestId=c17eaa16-9033-41a9-a5f3-955aefb92fbd
+[2025-10-19 22:47:57,487] INFO hw6-consumer - Consumed request key=1760927179210 requestId=04c75c62-c6e6-4062-9dde-8ee25a53c899
+[2025-10-19 22:47:57,507] INFO hw6-consumer - PutItem widgetId=61c367f2-8e22-434a-89de-92951d5608b2 owner=Henry Hops into widgets
+[2025-10-19 22:47:57,589] INFO hw6-consumer - Consumed request key=1760927179259 requestId=f57a2f0f-f107-4e73-8d50-01eb97f69788
+[2025-10-19 22:47:57,589] WARNING hw6-consumer - delete not implemented, skipping requestId=f57a2f0f-f107-4e73-8d50-01eb97f69788
+[2025-10-19 22:47:57,699] INFO hw6-consumer - Consumed request key=1760927179405 requestId=8ee2c4ed-d004-4f74-aaad-bc0d72020227
+[2025-10-19 22:47:57,700] WARNING hw6-consumer - update not implemented, skipping requestId=8ee2c4ed-d004-4f74-aaad-bc0d72020227
+[2025-10-19 22:47:57,806] INFO hw6-consumer - Consumed request key=1760927179560 requestId=16737f07-f2a4-4eea-9088-5d47b1570ba7
+[2025-10-19 22:47:57,824] INFO hw6-consumer - PutItem widgetId=ef55d53a-719d-4c05-a534-353ef1d1ddb3 owner=John Jones into widgets
+[2025-10-19 22:47:57,940] INFO hw6-consumer - Consumed request key=1760927179622 requestId=48b3cac9-f943-40e4-8c72-b335f83d61b6
+[2025-10-19 22:47:57,940] WARNING hw6-consumer - update not implemented, skipping requestId=48b3cac9-f943-40e4-8c72-b335f83d61b6
+[2025-10-19 22:47:58,028] INFO hw6-consumer - Consumed request key=1760927179774 requestId=5957e6bf-4413-4a26-8865-51e68f83405d
+[2025-10-19 22:47:58,046] INFO hw6-consumer - PutItem widgetId=88d9b83c-6421-406d-9b20-a94afbf38f2d owner=Sue Smith into widgets
+[2025-10-19 22:47:58,157] INFO hw6-consumer - Consumed request key=1760927179832 requestId=26baa085-0afd-4610-87b4-e6f3d6ccc2a2
+[2025-10-19 22:47:58,174] INFO hw6-consumer - PutItem widgetId=c11dabab-08e3-4c8b-89a3-246ee22cf38a owner=Henry Hops into widgets
+[2025-10-19 22:47:58,286] INFO hw6-consumer - Consumed request key=1760927179883 requestId=f248e66d-b0ff-46ef-9e24-da76500bac88
+[2025-10-19 22:47:58,286] WARNING hw6-consumer - update not implemented, skipping requestId=f248e66d-b0ff-46ef-9e24-da76500bac88
+[2025-10-19 22:47:58,369] INFO hw6-consumer - Consumed request key=1760927180054 requestId=c0e9a63d-e83b-4334-85f5-8c608566200a
+[2025-10-19 22:47:58,369] WARNING hw6-consumer - delete not implemented, skipping requestId=c0e9a63d-e83b-4334-85f5-8c608566200a
+[2025-10-19 22:47:58,447] INFO hw6-consumer - Consumed request key=1760927180199 requestId=1a064851-2f14-4d66-8395-ef2225795a52
+[2025-10-19 22:47:58,447] WARNING hw6-consumer - delete not implemented, skipping requestId=1a064851-2f14-4d66-8395-ef2225795a52
+[2025-10-19 22:47:58,569] INFO hw6-consumer - Consumed request key=1760927180348 requestId=51af9aef-16bd-42ff-8329-a4ae3d043d05
+[2025-10-19 22:47:58,569] WARNING hw6-consumer - update not implemented, skipping requestId=51af9aef-16bd-42ff-8329-a4ae3d043d05
+[2025-10-19 22:47:58,662] INFO hw6-consumer - Consumed request key=1760927180510 requestId=1ea11854-4345-44bf-aacf-c7ce16c3f054
+[2025-10-19 22:47:58,663] WARNING hw6-consumer - update not implemented, skipping requestId=1ea11854-4345-44bf-aacf-c7ce16c3f054
+[2025-10-19 22:47:58,745] INFO hw6-consumer - Consumed request key=1760927180661 requestId=62fa47f8-d203-429f-8c2b-056922b4a776
+[2025-10-19 22:47:58,745] WARNING hw6-consumer - delete not implemented, skipping requestId=62fa47f8-d203-429f-8c2b-056922b4a776
+[2025-10-19 22:47:58,887] INFO hw6-consumer - Consumed request key=1760927180840 requestId=621796bf-b48b-41e6-aa08-ac8cc1d3c392
+[2025-10-19 22:47:58,906] INFO hw6-consumer - PutItem widgetId=b30193ef-ae5c-4cd3-ac55-2896f22e7d51 owner=John Jones into widgets
+[2025-10-19 22:47:59,106] INFO hw6-consumer - Consumed request key=1760927180887 requestId=faf5fb58-d9de-4e4f-af93-a4ab95b210dd
+[2025-10-19 22:47:59,107] WARNING hw6-consumer - update not implemented, skipping requestId=faf5fb58-d9de-4e4f-af93-a4ab95b210dd
+[2025-10-19 22:47:59,377] INFO hw6-consumer - Consumed request key=1760927181036 requestId=13434397-9766-48a0-b52c-d270e7d91e37
+[2025-10-19 22:47:59,377] WARNING hw6-consumer - update not implemented, skipping requestId=13434397-9766-48a0-b52c-d270e7d91e37
+[2025-10-19 22:47:59,537] INFO hw6-consumer - Consumed request key=1760927181189 requestId=daa5301a-d7b7-4c55-ae56-9610e97b0526
+[2025-10-19 22:47:59,538] WARNING hw6-consumer - update not implemented, skipping requestId=daa5301a-d7b7-4c55-ae56-9610e97b0526
+[2025-10-19 22:47:59,771] INFO hw6-consumer - Consumed request key=1760927181341 requestId=f254b63d-716c-4186-b735-6ef57bfe5fc7
+[2025-10-19 22:47:59,789] INFO hw6-consumer - PutItem widgetId=84cd07b1-7c62-4f8e-95c3-6081076d0429 owner=Henry Hops into widgets
+[2025-10-19 22:48:00,008] INFO hw6-consumer - Consumed request key=1760927181410 requestId=4fba3e93-ac92-4f0e-8543-ebc2b051b224
+[2025-10-19 22:48:00,008] WARNING hw6-consumer - update not implemented, skipping requestId=4fba3e93-ac92-4f0e-8543-ebc2b051b224
+[2025-10-19 22:48:00,208] INFO hw6-consumer - Consumed request key=1760927181567 requestId=b9d13020-4591-431c-acc0-099f09432051
+[2025-10-19 22:48:00,209] WARNING hw6-consumer - update not implemented, skipping requestId=b9d13020-4591-431c-acc0-099f09432051
+[2025-10-19 22:48:00,368] INFO hw6-consumer - Consumed request key=1760927181757 requestId=10397617-a948-4000-83fa-7367b7183716
+[2025-10-19 22:48:00,386] INFO hw6-consumer - PutItem widgetId=c80dca2e-288a-4199-80db-247f4dacf26a owner=Henry Hops into widgets
+[2025-10-19 22:48:00,468] INFO hw6-consumer - Consumed request key=1760927181807 requestId=dd73d68a-aaa8-4a31-bb41-6f3e6d230534
+[2025-10-19 22:48:00,488] INFO hw6-consumer - PutItem widgetId=e0bfd505-7773-4b99-a5ae-eb049296ed38 owner=John Jones into widgets
+[2025-10-19 22:48:00,568] INFO hw6-consumer - Consumed request key=1760927181852 requestId=0dff270b-69b1-400c-8780-a0bc3eb9561b
+[2025-10-19 22:48:00,568] WARNING hw6-consumer - delete not implemented, skipping requestId=0dff270b-69b1-400c-8780-a0bc3eb9561b
+[2025-10-19 22:48:00,665] INFO hw6-consumer - Consumed request key=1760927181995 requestId=4eeddc0d-b73d-4433-b924-e48623ff650f
+[2025-10-19 22:48:00,687] INFO hw6-consumer - PutItem widgetId=531f12c1-e668-4cc6-9648-490f5444e8e8 owner=Sue Smith into widgets
+[2025-10-19 22:48:00,852] INFO hw6-consumer - Consumed request key=1760927182065 requestId=209cd689-171b-48c9-aa08-796080253711
+[2025-10-19 22:48:00,872] INFO hw6-consumer - PutItem widgetId=0c5cddac-8338-4fa0-9c2e-749c6e6328ad owner=John Jones into widgets
+[2025-10-19 22:48:00,994] INFO hw6-consumer - Consumed request key=1760927182114 requestId=f0980ce0-c5b2-411d-b573-dadb705c409e
+[2025-10-19 22:48:01,014] INFO hw6-consumer - PutItem widgetId=f018bddb-99f3-465e-ae50-4b3e537b4060 owner=Henry Hops into widgets
+[2025-10-19 22:48:01,134] INFO hw6-consumer - Consumed request key=1760927182163 requestId=aeea882a-3c9d-48b4-91bc-9d61f35b073c
+[2025-10-19 22:48:01,150] INFO hw6-consumer - PutItem widgetId=edf250c8-3624-497c-a50b-171cc641f86a owner=John Jones into widgets
+[2025-10-19 22:48:01,232] INFO hw6-consumer - Consumed request key=1760927182211 requestId=bcd879a5-d3ce-4bad-80b5-255803d67476
+[2025-10-19 22:48:01,232] WARNING hw6-consumer - delete not implemented, skipping requestId=bcd879a5-d3ce-4bad-80b5-255803d67476
+[2025-10-19 22:48:01,446] INFO hw6-consumer - Consumed request key=1760927182354 requestId=075f1081-31ff-460d-968a-d9646b72a840
+[2025-10-19 22:48:01,463] INFO hw6-consumer - PutItem widgetId=aef1aa49-8ba3-437b-9afb-e9cdc53ba22a owner=Sue Smith into widgets
+[2025-10-19 22:48:01,554] INFO hw6-consumer - Consumed request key=1760927182417 requestId=095bccaa-597c-4b2a-819b-b5722bfe5d2e
+[2025-10-19 22:48:01,570] INFO hw6-consumer - PutItem widgetId=2272e50a-bec4-4b9a-add7-e7254e4347e7 owner=Mary Matthews into widgets
+[2025-10-19 22:48:01,707] INFO hw6-consumer - Consumed request key=1760927182465 requestId=88366c68-31b1-4262-a60e-496ab8ed1098
+[2025-10-19 22:48:01,707] WARNING hw6-consumer - update not implemented, skipping requestId=88366c68-31b1-4262-a60e-496ab8ed1098
+[2025-10-19 22:48:01,811] INFO hw6-consumer - Consumed request key=1760927182622 requestId=9700c1b0-5d44-4aa2-9ed7-dcadaa05466f
+[2025-10-19 22:48:01,844] INFO hw6-consumer - PutItem widgetId=2bcce1cd-4a75-45e7-85a7-1d3ca476157e owner=Henry Hops into widgets
+[2025-10-19 22:48:01,939] INFO hw6-consumer - Consumed request key=1760927182674 requestId=f82ecffe-3bad-4b91-9eca-9bf5ebdfbffd
+[2025-10-19 22:48:01,961] INFO hw6-consumer - PutItem widgetId=6a291782-b638-4ce3-8503-b323d5529afe owner=John Jones into widgets
+[2025-10-19 22:48:02,070] INFO hw6-consumer - Consumed request key=1760927182726 requestId=5e65a323-46c2-4f3a-a671-cf8a8318ef4e
+[2025-10-19 22:48:02,070] WARNING hw6-consumer - update not implemented, skipping requestId=5e65a323-46c2-4f3a-a671-cf8a8318ef4e
+[2025-10-19 22:48:02,182] INFO hw6-consumer - Consumed request key=1760927182876 requestId=bf4353eb-6f16-4032-b92c-e27b08eaccb9
+[2025-10-19 22:48:02,182] WARNING hw6-consumer - update not implemented, skipping requestId=bf4353eb-6f16-4032-b92c-e27b08eaccb9
+[2025-10-19 22:48:02,307] INFO hw6-consumer - Consumed request key=1760927183021 requestId=12c5ed70-c124-4bd0-a7b8-28074f248d4a
+[2025-10-19 22:48:02,308] WARNING hw6-consumer - update not implemented, skipping requestId=12c5ed70-c124-4bd0-a7b8-28074f248d4a
+[2025-10-19 22:48:02,405] INFO hw6-consumer - Consumed request key=1760927183172 requestId=27c1ba6c-ba24-447c-85f9-aa0f55ab48b8
+[2025-10-19 22:48:02,405] WARNING hw6-consumer - update not implemented, skipping requestId=27c1ba6c-ba24-447c-85f9-aa0f55ab48b8
+[2025-10-19 22:48:02,497] INFO hw6-consumer - Consumed request key=1760927183320 requestId=73b7efa6-e543-46c9-91de-03351166481b
+[2025-10-19 22:48:02,513] INFO hw6-consumer - PutItem widgetId=83abddec-97ac-4627-a75b-6bc74df7c97e owner=Henry Hops into widgets
+[2025-10-19 22:48:02,622] INFO hw6-consumer - Consumed request key=1760927183385 requestId=17f4bf5e-6063-4976-9086-bb17b8f7795d
+[2025-10-19 22:48:02,623] WARNING hw6-consumer - update not implemented, skipping requestId=17f4bf5e-6063-4976-9086-bb17b8f7795d
+[2025-10-19 22:48:02,719] INFO hw6-consumer - Consumed request key=1760927183535 requestId=49bf85fb-cb55-4aad-b4f5-a457bfd931c9
+[2025-10-19 22:48:02,719] WARNING hw6-consumer - update not implemented, skipping requestId=49bf85fb-cb55-4aad-b4f5-a457bfd931c9
+[2025-10-19 22:48:02,830] INFO hw6-consumer - Consumed request key=1760927183681 requestId=0be75fec-75bd-4f95-abe2-c11b24c81312
+[2025-10-19 22:48:02,864] INFO hw6-consumer - PutItem widgetId=cf9a1a04-61b7-4c98-8b95-14843af3f0b2 owner=Henry Hops into widgets
+[2025-10-19 22:48:02,972] INFO hw6-consumer - Consumed request key=1760927183732 requestId=82203fd0-33f9-4146-bff6-0cee69e9fcc4
+[2025-10-19 22:48:02,973] WARNING hw6-consumer - update not implemented, skipping requestId=82203fd0-33f9-4146-bff6-0cee69e9fcc4
+[2025-10-19 22:48:03,074] INFO hw6-consumer - Consumed request key=1760927183885 requestId=cc2a9ca2-4744-4fbe-8f9e-aeaf7ab2dd9e
+[2025-10-19 22:48:03,074] WARNING hw6-consumer - update not implemented, skipping requestId=cc2a9ca2-4744-4fbe-8f9e-aeaf7ab2dd9e
+[2025-10-19 22:48:03,180] INFO hw6-consumer - Consumed request key=1760927184042 requestId=02970b22-ba39-4532-beb4-47c464bf917e
+[2025-10-19 22:48:03,180] WARNING hw6-consumer - update not implemented, skipping requestId=02970b22-ba39-4532-beb4-47c464bf917e
+[2025-10-19 22:48:03,318] INFO hw6-consumer - Consumed request key=1760927184362 requestId=88d6cb7e-a52f-4d5c-b1f3-b4cdedca0cc0
+[2025-10-19 22:48:03,333] INFO hw6-consumer - PutItem widgetId=1f6537ac-6121-44d8-8546-eafa8fa6c7cd owner=John Jones into widgets
+[2025-10-19 22:48:03,485] INFO hw6-consumer - Consumed request key=1760927184515 requestId=09dd071f-2ca8-44a7-a34a-b6569e3cbfcc
+[2025-10-19 22:48:03,486] WARNING hw6-consumer - update not implemented, skipping requestId=09dd071f-2ca8-44a7-a34a-b6569e3cbfcc
+[2025-10-19 22:48:03,640] INFO hw6-consumer - Consumed request key=1760927184725 requestId=f1cb0c0d-d79a-48e7-aaf1-5280589c4f9c
+[2025-10-19 22:48:03,656] INFO hw6-consumer - PutItem widgetId=0221388f-2551-457e-a42e-eb96400af108 owner=Sue Smith into widgets
+[2025-10-19 22:48:03,746] INFO hw6-consumer - Consumed request key=1760927184816 requestId=8d21e222-08a7-4ea2-85c0-89362d326af8
+[2025-10-19 22:48:03,765] INFO hw6-consumer - PutItem widgetId=379a70f7-cbbb-4c9a-bcf4-af3691247f00 owner=Mary Matthews into widgets
+[2025-10-19 22:48:03,882] INFO hw6-consumer - Consumed request key=1760927184922 requestId=1e549266-04bf-4670-b081-b7a34603c27c
+[2025-10-19 22:48:03,902] INFO hw6-consumer - PutItem widgetId=6e0c2900-9e0b-4709-bdee-1dc29f640ff0 owner=John Jones into widgets
+[2025-10-19 22:48:04,002] INFO hw6-consumer - Consumed request key=1760927184978 requestId=2d253f94-29f8-419d-864e-a10f8f9f47eb
+[2025-10-19 22:48:04,003] WARNING hw6-consumer - update not implemented, skipping requestId=2d253f94-29f8-419d-864e-a10f8f9f47eb
+[2025-10-19 22:48:04,163] INFO hw6-consumer - Consumed request key=1760927185134 requestId=fb922aaa-d893-4a12-9c86-debb2a76b930
+[2025-10-19 22:48:04,163] WARNING hw6-consumer - update not implemented, skipping requestId=fb922aaa-d893-4a12-9c86-debb2a76b930
+[2025-10-19 22:48:04,246] INFO hw6-consumer - Consumed request key=1760927185354 requestId=73a3a98e-19f7-401c-ab1c-65c3163f8a8a
+[2025-10-19 22:48:04,265] INFO hw6-consumer - PutItem widgetId=78280036-84f1-453e-ae01-8da1e8e885cc owner=Henry Hops into widgets
+[2025-10-19 22:48:04,360] INFO hw6-consumer - Consumed request key=1760927185412 requestId=ca180dd3-8afd-4d33-a077-936e1a520cbe
+[2025-10-19 22:48:04,382] INFO hw6-consumer - PutItem widgetId=68c2962e-ccf3-4b48-8c25-f956210b1f34 owner=John Jones into widgets
+[2025-10-19 22:48:04,554] INFO hw6-consumer - Consumed request key=1760927185459 requestId=47be25de-19cf-4ccf-b564-df068bd7f275
+[2025-10-19 22:48:04,575] INFO hw6-consumer - PutItem widgetId=e55e5a60-0660-499a-a3b8-83dbac2609bc owner=Sue Smith into widgets
+[2025-10-19 22:48:04,686] INFO hw6-consumer - Consumed request key=1760927185505 requestId=3a037ffc-a5de-4da2-ba53-90543b48f25a
+[2025-10-19 22:48:04,703] INFO hw6-consumer - PutItem widgetId=c4ef3fc0-6577-40d1-998b-a27fe96cdda5 owner=Sue Smith into widgets
+[2025-10-19 22:48:04,782] INFO hw6-consumer - Consumed request key=1760927185554 requestId=83632baf-1141-4315-b6dd-f8dac684644e
+[2025-10-19 22:48:04,783] WARNING hw6-consumer - delete not implemented, skipping requestId=83632baf-1141-4315-b6dd-f8dac684644e
+[2025-10-19 22:48:04,921] INFO hw6-consumer - Consumed request key=1760927185692 requestId=8ce2cf6b-e208-4714-916d-24097bd23872
+[2025-10-19 22:48:04,921] WARNING hw6-consumer - update not implemented, skipping requestId=8ce2cf6b-e208-4714-916d-24097bd23872
+[2025-10-19 22:48:05,003] INFO hw6-consumer - Consumed request key=1760927185840 requestId=1673c708-a4b9-4375-9b29-1dcc791e7aaf
+[2025-10-19 22:48:05,003] WARNING hw6-consumer - delete not implemented, skipping requestId=1673c708-a4b9-4375-9b29-1dcc791e7aaf
+[2025-10-19 22:48:05,098] INFO hw6-consumer - Consumed request key=1760927185993 requestId=c7edbfee-9788-49d0-93fd-d2ab83e5db64
+[2025-10-19 22:48:05,100] WARNING hw6-consumer - update not implemented, skipping requestId=c7edbfee-9788-49d0-93fd-d2ab83e5db64
+[2025-10-19 22:48:05,219] INFO hw6-consumer - Consumed request key=1760927186140 requestId=fa985efb-c5e0-496a-a7a7-370e69c8b46e
+[2025-10-19 22:48:05,235] INFO hw6-consumer - PutItem widgetId=bff9de1d-f029-4043-be33-2d7356ab6863 owner=John Jones into widgets
+[2025-10-19 22:48:05,321] INFO hw6-consumer - Consumed request key=1760927186190 requestId=e4c4bf57-f06b-43ac-8b80-192ca3097c1d
+[2025-10-19 22:48:05,340] INFO hw6-consumer - PutItem widgetId=539d4261-e596-41d5-b87e-6b44d6b9e136 owner=Sue Smith into widgets
+[2025-10-19 22:48:05,581] INFO hw6-consumer - Consumed request key=1760927186241 requestId=311e78ae-3e5a-48d0-92ad-749f87965c04
+[2025-10-19 22:48:05,581] WARNING hw6-consumer - update not implemented, skipping requestId=311e78ae-3e5a-48d0-92ad-749f87965c04
+[2025-10-19 22:48:05,673] INFO hw6-consumer - Consumed request key=1760927186388 requestId=ba8818e0-cfd2-4ce5-975c-bdad702febe6
+[2025-10-19 22:48:05,691] INFO hw6-consumer - PutItem widgetId=02d5e93a-3164-4ae9-8314-063f2dc3a33d owner=Henry Hops into widgets
+[2025-10-19 22:48:05,802] INFO hw6-consumer - Consumed request key=1760927186440 requestId=67c224d7-107e-4ae9-af38-7db3c360cd8b
+[2025-10-19 22:48:05,802] WARNING hw6-consumer - update not implemented, skipping requestId=67c224d7-107e-4ae9-af38-7db3c360cd8b
+[2025-10-19 22:48:05,891] INFO hw6-consumer - Consumed request key=1760927186586 requestId=88d40aa9-c393-4ccb-8d68-1905540598b2
+[2025-10-19 22:48:05,891] WARNING hw6-consumer - update not implemented, skipping requestId=88d40aa9-c393-4ccb-8d68-1905540598b2
+[2025-10-19 22:48:05,993] INFO hw6-consumer - Consumed request key=1760927186732 requestId=00e9bc4a-64f0-40d0-82b7-58619cbcfd50
+[2025-10-19 22:48:06,010] INFO hw6-consumer - PutItem widgetId=39b2cd3a-860c-457f-b60a-052fc74f5773 owner=John Jones into widgets
+[2025-10-19 22:48:06,135] INFO hw6-consumer - Consumed request key=1760927186799 requestId=af02c48f-929a-4cea-9584-f852b2e94865
+[2025-10-19 22:48:06,136] WARNING hw6-consumer - update not implemented, skipping requestId=af02c48f-929a-4cea-9584-f852b2e94865
+[2025-10-19 22:48:06,290] INFO hw6-consumer - Consumed request key=1760927186956 requestId=6b0e9a23-4ad9-4385-9ae0-fcbfddca9a42
+[2025-10-19 22:48:06,291] WARNING hw6-consumer - update not implemented, skipping requestId=6b0e9a23-4ad9-4385-9ae0-fcbfddca9a42
+[2025-10-19 22:48:06,396] INFO hw6-consumer - Consumed request key=1760927187106 requestId=6d8d4b1e-0651-4464-8027-bdbfce24907b
+[2025-10-19 22:48:06,415] INFO hw6-consumer - PutItem widgetId=4302e7c3-9930-45ec-8de0-40974eaffe5e owner=Sue Smith into widgets
+[2025-10-19 22:48:06,574] INFO hw6-consumer - Consumed request key=1760927187155 requestId=f0792179-3896-4c04-bd51-18e04b961871
+[2025-10-19 22:48:06,589] INFO hw6-consumer - PutItem widgetId=f437fe66-ed69-4450-9a3f-91a86c9327ff owner=Sue Smith into widgets
+[2025-10-19 22:48:06,698] INFO hw6-consumer - Consumed request key=1760927187206 requestId=0e6b1929-494b-492c-8259-cb5a7797c311
+[2025-10-19 22:48:06,699] WARNING hw6-consumer - update not implemented, skipping requestId=0e6b1929-494b-492c-8259-cb5a7797c311
+[2025-10-19 22:48:06,814] INFO hw6-consumer - Consumed request key=1760927187356 requestId=5d228d67-79b7-489d-8f89-36baf984ded2
+[2025-10-19 22:48:06,835] INFO hw6-consumer - PutItem widgetId=568a5ab2-fc5a-42c3-96dc-a7a3140a46b1 owner=John Jones into widgets
+[2025-10-19 22:48:06,949] INFO hw6-consumer - Consumed request key=1760927187406 requestId=391e86af-65ee-48f4-b208-b6e36e0e1938
+[2025-10-19 22:48:06,949] WARNING hw6-consumer - update not implemented, skipping requestId=391e86af-65ee-48f4-b208-b6e36e0e1938
+[2025-10-19 22:48:07,060] INFO hw6-consumer - Consumed request key=1760927187556 requestId=3bcaabbb-4ac2-4557-8080-e54b78f869fc
+[2025-10-19 22:48:07,060] WARNING hw6-consumer - update not implemented, skipping requestId=3bcaabbb-4ac2-4557-8080-e54b78f869fc
+[2025-10-19 22:48:07,159] INFO hw6-consumer - Consumed request key=1760927187715 requestId=888a5d1c-1918-4510-9462-dc1c614b6798
+[2025-10-19 22:48:07,176] INFO hw6-consumer - PutItem widgetId=2429efd1-f684-4234-b520-effc26c9ebb4 owner=Henry Hops into widgets
+[2025-10-19 22:48:07,299] INFO hw6-consumer - Consumed request key=1760927187764 requestId=09c327b5-5add-40e0-bf79-8ea949d7ae3e
+[2025-10-19 22:48:07,300] WARNING hw6-consumer - update not implemented, skipping requestId=09c327b5-5add-40e0-bf79-8ea949d7ae3e
+[2025-10-19 22:48:07,428] INFO hw6-consumer - Consumed request key=1760927187910 requestId=c6719d89-b6a8-4f12-9611-5927f63b1b20
+[2025-10-19 22:48:07,446] INFO hw6-consumer - PutItem widgetId=c9afd46c-20bf-42bd-8cb1-781af0307f5f owner=John Jones into widgets
+[2025-10-19 22:48:07,638] INFO hw6-consumer - Consumed request key=1760927187959 requestId=f4c69c39-6b73-4cf4-b263-775f72f3541d
+[2025-10-19 22:48:07,639] WARNING hw6-consumer - update not implemented, skipping requestId=f4c69c39-6b73-4cf4-b263-775f72f3541d
+[2025-10-19 22:48:07,772] INFO hw6-consumer - Consumed request key=1760927188104 requestId=cf4a8abf-6336-4c4d-90cc-341e4877bdbc
+[2025-10-19 22:48:07,773] WARNING hw6-consumer - update not implemented, skipping requestId=cf4a8abf-6336-4c4d-90cc-341e4877bdbc
+[2025-10-19 22:48:07,882] INFO hw6-consumer - Consumed request key=1760927188263 requestId=1bf2f6bc-c38d-467f-99ed-144bdb95da03
+[2025-10-19 22:48:07,882] WARNING hw6-consumer - update not implemented, skipping requestId=1bf2f6bc-c38d-467f-99ed-144bdb95da03
+[2025-10-19 22:48:08,000] INFO hw6-consumer - Consumed request key=1760927188420 requestId=1dc5e420-f3ba-47a6-9abd-48d85198e687
+[2025-10-19 22:48:08,015] INFO hw6-consumer - PutItem widgetId=d8e5ca23-cdc2-48b9-a1d1-e45ff22cbc0f owner=Sue Smith into widgets
+[2025-10-19 22:48:08,191] INFO hw6-consumer - Consumed request key=1760927188493 requestId=f841b630-5a55-469f-852d-c450d43563b8
+[2025-10-19 22:48:08,192] WARNING hw6-consumer - update not implemented, skipping requestId=f841b630-5a55-469f-852d-c450d43563b8
+[2025-10-19 22:48:08,290] INFO hw6-consumer - Consumed request key=1760927188641 requestId=b9d550fc-1c3a-42fd-8999-4115f91424bf
+[2025-10-19 22:48:08,291] WARNING hw6-consumer - delete not implemented, skipping requestId=b9d550fc-1c3a-42fd-8999-4115f91424bf
+[2025-10-19 22:48:08,383] INFO hw6-consumer - Consumed request key=1760927188793 requestId=de2edfda-6149-4fe3-b69b-a261e247b09e
+[2025-10-19 22:48:08,383] WARNING hw6-consumer - delete not implemented, skipping requestId=de2edfda-6149-4fe3-b69b-a261e247b09e
+[2025-10-19 22:48:08,505] INFO hw6-consumer - Consumed request key=1760927188945 requestId=70172091-7dd3-49a0-9673-0bfda4d4f9cf
+[2025-10-19 22:48:08,523] INFO hw6-consumer - PutItem widgetId=d435ab07-0e4e-4abe-a71a-0d515e62b6b1 owner=Mary Matthews into widgets
+[2025-10-19 22:48:08,650] INFO hw6-consumer - Consumed request key=1760927189011 requestId=caf35b0d-401f-4983-8b53-e7d5a4713547
+[2025-10-19 22:48:08,651] WARNING hw6-consumer - update not implemented, skipping requestId=caf35b0d-401f-4983-8b53-e7d5a4713547
+[2025-10-19 22:48:08,769] INFO hw6-consumer - Consumed request key=1760927189181 requestId=641a55ac-6037-4d67-a6fb-eee688433995
+[2025-10-19 22:48:08,782] INFO hw6-consumer - PutItem widgetId=052308a0-5bff-4dac-a401-ef8a792017f4 owner=Sue Smith into widgets
+[2025-10-19 22:48:08,873] INFO hw6-consumer - Consumed request key=1760927189246 requestId=ff9ba652-e884-4b79-8f2d-d3e06ab587f6
+[2025-10-19 22:48:08,873] WARNING hw6-consumer - delete not implemented, skipping requestId=ff9ba652-e884-4b79-8f2d-d3e06ab587f6
+[2025-10-19 22:48:08,971] INFO hw6-consumer - Consumed request key=1760927189390 requestId=238ab202-3c2e-4f53-8be8-9aab9c692ac5
+[2025-10-19 22:48:08,971] WARNING hw6-consumer - delete not implemented, skipping requestId=238ab202-3c2e-4f53-8be8-9aab9c692ac5
+[2025-10-19 22:48:09,078] INFO hw6-consumer - Consumed request key=1760927189537 requestId=b37ff8ed-6ec2-4a27-b6d3-d2e5c3ec0f2f
+[2025-10-19 22:48:09,079] WARNING hw6-consumer - update not implemented, skipping requestId=b37ff8ed-6ec2-4a27-b6d3-d2e5c3ec0f2f
+[2025-10-19 22:48:09,174] INFO hw6-consumer - Consumed request key=1760927189688 requestId=e15a5a48-ba03-4587-ba30-dc1bd51612f1
+[2025-10-19 22:48:09,191] INFO hw6-consumer - PutItem widgetId=43f56b99-771d-4d96-8b1d-b3ef8a3acb88 owner=John Jones into widgets
+[2025-10-19 22:48:09,353] INFO hw6-consumer - Consumed request key=1760927189744 requestId=2b1626c7-9891-4b40-87eb-3b0044291360
+[2025-10-19 22:48:09,354] WARNING hw6-consumer - update not implemented, skipping requestId=2b1626c7-9891-4b40-87eb-3b0044291360
+[2025-10-19 22:48:09,480] INFO hw6-consumer - Consumed request key=1760927189899 requestId=b9a5328a-e9f4-4ec7-87b5-572e3907fe9a
+[2025-10-19 22:48:09,497] INFO hw6-consumer - PutItem widgetId=52ab5756-25c7-46ab-91d8-e8d24702ce1b owner=John Jones into widgets
+[2025-10-19 22:48:09,687] INFO hw6-consumer - Consumed request key=1760927190011 requestId=a027ab83-e366-4662-9b82-c4e778e28735
+[2025-10-19 22:48:09,688] WARNING hw6-consumer - update not implemented, skipping requestId=a027ab83-e366-4662-9b82-c4e778e28735
+[2025-10-19 22:48:09,823] INFO hw6-consumer - Consumed request key=1760927190171 requestId=5669907e-430a-4edf-bcfd-6571576dba52
+[2025-10-19 22:48:09,841] INFO hw6-consumer - PutItem widgetId=86652f1a-035b-4f84-9247-5575e7a94dbf owner=Sue Smith into widgets
+[2025-10-19 22:48:10,083] INFO hw6-consumer - Consumed request key=1760927190221 requestId=dde058b3-f65e-4bbc-bc06-aa739a67e207
+[2025-10-19 22:48:10,101] INFO hw6-consumer - PutItem widgetId=879e82bc-4411-4cd3-a19f-f1219cec2799 owner=Sue Smith into widgets
+[2025-10-19 22:48:10,190] INFO hw6-consumer - Consumed request key=1760927190302 requestId=df86f588-3375-4d88-8301-767aaad58fe8
+[2025-10-19 22:48:10,191] WARNING hw6-consumer - update not implemented, skipping requestId=df86f588-3375-4d88-8301-767aaad58fe8
+[2025-10-19 22:48:10,316] INFO hw6-consumer - Consumed request key=1760927190456 requestId=3cbce5de-828b-4f04-8b71-d6582d8e989e
+[2025-10-19 22:48:10,317] WARNING hw6-consumer - update not implemented, skipping requestId=3cbce5de-828b-4f04-8b71-d6582d8e989e
+[2025-10-19 22:48:10,426] INFO hw6-consumer - Consumed request key=1760927190614 requestId=d05b4218-d873-409b-8622-0d9bc7f9327c
+[2025-10-19 22:48:10,450] INFO hw6-consumer - PutItem widgetId=bad5d1d0-a21a-48ea-8c31-70e0d35cdfd4 owner=John Jones into widgets
+[2025-10-19 22:48:10,535] INFO hw6-consumer - Consumed request key=1760927190678 requestId=b553f636-e6b8-4a59-bd9b-25845ca35e4a
+[2025-10-19 22:48:10,536] WARNING hw6-consumer - delete not implemented, skipping requestId=b553f636-e6b8-4a59-bd9b-25845ca35e4a
+[2025-10-19 22:48:10,612] INFO hw6-consumer - Consumed request key=1760927190826 requestId=4697e0b2-9e52-4206-9c10-49031aff93e6
+[2025-10-19 22:48:10,612] WARNING hw6-consumer - delete not implemented, skipping requestId=4697e0b2-9e52-4206-9c10-49031aff93e6
+[2025-10-19 22:48:10,782] INFO hw6-consumer - Consumed request key=1760927190968 requestId=98177d41-47e2-47ac-8883-08e09c9d205d
+[2025-10-19 22:48:10,804] INFO hw6-consumer - PutItem widgetId=5936b829-1689-4518-a404-aa08a8f7504e owner=Mary Matthews into widgets
+[2025-10-19 22:48:10,945] INFO hw6-consumer - Consumed request key=1760927191017 requestId=529e087e-9a48-4b4a-b58b-96c5bd5670d5
+[2025-10-19 22:48:10,963] INFO hw6-consumer - PutItem widgetId=eddecf77-44f4-4fc9-9ddc-3ae80311ab29 owner=Mary Matthews into widgets
+[2025-10-19 22:48:11,072] INFO hw6-consumer - Consumed request key=1760927191064 requestId=8a447bcf-8583-40ef-a93a-08b039737f5c
+[2025-10-19 22:48:11,092] INFO hw6-consumer - PutItem widgetId=b4894006-0ced-4e83-95eb-c67883e35a6c owner=Henry Hops into widgets
+[2025-10-19 22:48:11,192] INFO hw6-consumer - Consumed request key=1760927191149 requestId=1c30b8ce-773a-46df-ace0-1ae795e3de0a
+[2025-10-19 22:48:11,210] INFO hw6-consumer - PutItem widgetId=d179cf00-4c7f-44c7-b923-bc22b56249a4 owner=Sue Smith into widgets
+[2025-10-19 22:48:11,354] INFO hw6-consumer - Consumed request key=1760927191212 requestId=e55e3897-9f88-474b-beef-a63a7ab25970
+[2025-10-19 22:48:11,371] INFO hw6-consumer - PutItem widgetId=2b236ae3-c16c-4c66-b53c-8046359e2634 owner=John Jones into widgets
+[2025-10-19 22:48:11,522] INFO hw6-consumer - Consumed request key=1760927191279 requestId=908f0c6b-1939-402b-a79c-7eb805588b8f
+[2025-10-19 22:48:11,523] WARNING hw6-consumer - update not implemented, skipping requestId=908f0c6b-1939-402b-a79c-7eb805588b8f
+[2025-10-19 22:48:11,682] INFO hw6-consumer - Consumed request key=1760927191433 requestId=4be37e66-511e-4139-a451-8fc72d6d390a
+[2025-10-19 22:48:11,700] INFO hw6-consumer - PutItem widgetId=c8082c7e-4e0f-455d-94fe-a2c24291fbfd owner=John Jones into widgets
+[2025-10-19 22:48:11,805] INFO hw6-consumer - Consumed request key=1760927191488 requestId=f435dc20-9f1c-417a-bf48-95b86c3695e7
+[2025-10-19 22:48:11,806] WARNING hw6-consumer - update not implemented, skipping requestId=f435dc20-9f1c-417a-bf48-95b86c3695e7
+[2025-10-19 22:48:11,892] INFO hw6-consumer - Consumed request key=1760927191652 requestId=0ab878a4-5257-4bbb-a14a-9e7ce52cae3b
+[2025-10-19 22:48:11,892] WARNING hw6-consumer - update not implemented, skipping requestId=0ab878a4-5257-4bbb-a14a-9e7ce52cae3b
+[2025-10-19 22:48:11,985] INFO hw6-consumer - Consumed request key=1760927191805 requestId=3aa24a55-d06f-48ae-8b57-dc3885935f1b
+[2025-10-19 22:48:12,002] INFO hw6-consumer - PutItem widgetId=db83787c-df6e-4c82-ba86-730a1a6cdcb3 owner=Sue Smith into widgets
+[2025-10-19 22:48:12,099] INFO hw6-consumer - Consumed request key=1760927191870 requestId=ae2a0fd4-fea4-40b1-88e8-deb0c953af50
+[2025-10-19 22:48:12,100] WARNING hw6-consumer - update not implemented, skipping requestId=ae2a0fd4-fea4-40b1-88e8-deb0c953af50
+[2025-10-19 22:48:12,236] INFO hw6-consumer - Consumed request key=1760927192024 requestId=7b373add-97a3-4ee0-8724-cb3ca63da94b
+[2025-10-19 22:48:12,237] WARNING hw6-consumer - update not implemented, skipping requestId=7b373add-97a3-4ee0-8724-cb3ca63da94b
+[2025-10-19 22:48:12,348] INFO hw6-consumer - Consumed request key=1760927192186 requestId=81be0227-c502-436f-a1aa-813e4352a5d5
+[2025-10-19 22:48:12,348] WARNING hw6-consumer - update not implemented, skipping requestId=81be0227-c502-436f-a1aa-813e4352a5d5
+[2025-10-19 22:48:12,469] INFO hw6-consumer - Consumed request key=1760927192336 requestId=b9287263-f097-4640-94e6-685ff030f39a
+[2025-10-19 22:48:12,486] INFO hw6-consumer - PutItem widgetId=3f424a99-7b28-4423-b410-5c9e897fb583 owner=Henry Hops into widgets
+[2025-10-19 22:48:12,567] INFO hw6-consumer - Consumed request key=1760927192383 requestId=6a96b886-b93a-4895-8ea0-9b3816804e37
+[2025-10-19 22:48:12,568] WARNING hw6-consumer - delete not implemented, skipping requestId=6a96b886-b93a-4895-8ea0-9b3816804e37
+[2025-10-19 22:48:12,663] INFO hw6-consumer - Consumed request key=1760927192527 requestId=2833a933-499c-4c00-95fb-8f62a066cdc0
+[2025-10-19 22:48:12,663] WARNING hw6-consumer - update not implemented, skipping requestId=2833a933-499c-4c00-95fb-8f62a066cdc0
+[2025-10-19 22:48:12,732] INFO hw6-consumer - Consumed request key=1760927192683 requestId=b472de83-f383-4209-a860-e84825955f99
+[2025-10-19 22:48:12,732] WARNING hw6-consumer - delete not implemented, skipping requestId=b472de83-f383-4209-a860-e84825955f99
+[2025-10-19 22:48:12,932] INFO hw6-consumer - Consumed request key=1760927192827 requestId=1894d886-000a-4462-a4e8-43a2324bbaf2
+[2025-10-19 22:48:12,951] INFO hw6-consumer - PutItem widgetId=5a42d710-f258-44af-9588-3eacaa644e26 owner=Henry Hops into widgets
+[2025-10-19 22:48:13,316] INFO hw6-consumer - Consumed request key=1760927192890 requestId=653164e9-fd0f-4941-959f-73cae414a323
+[2025-10-19 22:48:13,317] WARNING hw6-consumer - delete not implemented, skipping requestId=653164e9-fd0f-4941-959f-73cae414a323
+[2025-10-19 22:48:13,464] INFO hw6-consumer - Consumed request key=1760927193029 requestId=322c9618-5fc8-4b20-bfc8-122397bb9827
+[2025-10-19 22:48:13,464] WARNING hw6-consumer - update not implemented, skipping requestId=322c9618-5fc8-4b20-bfc8-122397bb9827
+[2025-10-19 22:48:13,631] INFO hw6-consumer - Consumed request key=1760927193173 requestId=9e18d9be-ee2f-4b8a-bca6-7b39cffffe27
+[2025-10-19 22:48:13,652] INFO hw6-consumer - PutItem widgetId=b9d0f367-6df6-4e66-bf9b-b108dc171157 owner=Sue Smith into widgets
+[2025-10-19 22:48:13,869] INFO hw6-consumer - Consumed request key=1760927193219 requestId=d38b74f3-df85-458f-b1fe-c7a16f6b3032
+[2025-10-19 22:48:13,887] INFO hw6-consumer - PutItem widgetId=e89e7116-c1f5-4b7f-b034-9e9bc6eb6b2b owner=John Jones into widgets
+[2025-10-19 22:48:14,025] INFO hw6-consumer - Consumed request key=1760927193263 requestId=f82c69ad-510e-4289-9278-27557708c889
+[2025-10-19 22:48:14,091] INFO hw6-consumer - PutItem widgetId=ef879f39-1c38-4036-9d00-042f75ce2b9f owner=John Jones into widgets
+[2025-10-19 22:48:14,198] INFO hw6-consumer - Consumed request key=1760927193304 requestId=3ebc7ffa-0db8-4b50-baf8-f36fc14710b6
+[2025-10-19 22:48:14,198] WARNING hw6-consumer - update not implemented, skipping requestId=3ebc7ffa-0db8-4b50-baf8-f36fc14710b6
+[2025-10-19 22:48:14,305] INFO hw6-consumer - Consumed request key=1760927193446 requestId=9eda25ae-1fa7-444b-8b91-7d01836c6783
+[2025-10-19 22:48:14,323] INFO hw6-consumer - PutItem widgetId=14bfcd4c-ef7f-478c-9058-411501b2b72e owner=Mary Matthews into widgets
+[2025-10-19 22:48:14,419] INFO hw6-consumer - Consumed request key=1760927193494 requestId=0efd1af4-2605-4681-a158-0e4959e3480a
+[2025-10-19 22:48:14,435] INFO hw6-consumer - PutItem widgetId=905af839-a2a7-4909-ac32-2ecbf02a0b0e owner=Mary Matthews into widgets
+[2025-10-19 22:48:14,512] INFO hw6-consumer - Consumed request key=1760927193543 requestId=8c62f38f-0882-4830-9e72-8ed0baafa210
+[2025-10-19 22:48:14,512] WARNING hw6-consumer - delete not implemented, skipping requestId=8c62f38f-0882-4830-9e72-8ed0baafa210
+[2025-10-19 22:48:14,732] INFO hw6-consumer - Consumed request key=1760927193688 requestId=0dba0a70-4b7f-4376-9340-d067656ef39b
+[2025-10-19 22:48:14,751] INFO hw6-consumer - PutItem widgetId=4c3c6024-92ab-4d8a-ac25-450db52a1140 owner=Mary Matthews into widgets
+[2025-10-19 22:48:14,834] INFO hw6-consumer - Consumed request key=1760927193737 requestId=164806be-9da5-4a6a-bf14-8b7aef551e46
+[2025-10-19 22:48:14,835] WARNING hw6-consumer - update not implemented, skipping requestId=164806be-9da5-4a6a-bf14-8b7aef551e46
+[2025-10-19 22:48:14,937] INFO hw6-consumer - Consumed request key=1760927193882 requestId=1c729560-52dd-40bb-8360-96fb700a74f9
+[2025-10-19 22:48:14,937] WARNING hw6-consumer - delete not implemented, skipping requestId=1c729560-52dd-40bb-8360-96fb700a74f9
+[2025-10-19 22:48:15,060] INFO hw6-consumer - Consumed request key=1760927194021 requestId=85762aca-ddce-4c24-838c-ca5683e59025
+[2025-10-19 22:48:15,061] WARNING hw6-consumer - update not implemented, skipping requestId=85762aca-ddce-4c24-838c-ca5683e59025
+[2025-10-19 22:48:15,184] INFO hw6-consumer - Consumed request key=1760927194170 requestId=7c24365b-778c-4234-a6c2-5134366d4f8f
+[2025-10-19 22:48:15,185] WARNING hw6-consumer - update not implemented, skipping requestId=7c24365b-778c-4234-a6c2-5134366d4f8f
+[2025-10-19 22:48:15,278] INFO hw6-consumer - Consumed request key=1760927194317 requestId=5bf84ca7-fee2-4263-bb94-7832a97439aa
+[2025-10-19 22:48:15,279] WARNING hw6-consumer - delete not implemented, skipping requestId=5bf84ca7-fee2-4263-bb94-7832a97439aa
+[2025-10-19 22:48:15,397] INFO hw6-consumer - Consumed request key=1760927194459 requestId=3180b169-76cf-4aae-9b9f-df20ddddacb4
+[2025-10-19 22:48:15,418] INFO hw6-consumer - PutItem widgetId=0475db7a-bdfe-48f5-831b-5c5edd5c1b9f owner=John Jones into widgets
+[2025-10-19 22:48:15,538] INFO hw6-consumer - Consumed request key=1760927194501 requestId=dce06226-ed51-49d6-9fe7-51c3674bf59f
+[2025-10-19 22:48:15,556] INFO hw6-consumer - PutItem widgetId=70385e84-622b-4537-9558-bcfc56c9196c owner=Henry Hops into widgets
+[2025-10-19 22:48:15,638] INFO hw6-consumer - Consumed request key=1760927194544 requestId=38120d77-8b01-466d-9364-a5a7d1f2d718
+[2025-10-19 22:48:15,639] WARNING hw6-consumer - delete not implemented, skipping requestId=38120d77-8b01-466d-9364-a5a7d1f2d718
+[2025-10-19 22:48:15,766] INFO hw6-consumer - Consumed request key=1760927194685 requestId=1d873121-3156-4079-b094-d1011d0a02f6
+[2025-10-19 22:48:15,784] INFO hw6-consumer - PutItem widgetId=d898580e-cd37-4ac1-8cef-6216b43b3a3e owner=Mary Matthews into widgets
+[2025-10-19 22:48:15,895] INFO hw6-consumer - Consumed request key=1760927194730 requestId=376f86cf-f6e9-45f1-9210-3694f2150a5e
+[2025-10-19 22:48:15,913] INFO hw6-consumer - PutItem widgetId=05d8423f-7aa4-4678-8478-2ce375d752a6 owner=Mary Matthews into widgets
+[2025-10-19 22:48:16,018] INFO hw6-consumer - Consumed request key=1760927194774 requestId=19f2e824-019d-4652-bb3d-7314ead8c649
+[2025-10-19 22:48:16,035] INFO hw6-consumer - PutItem widgetId=7d6a0d2a-ef94-40b8-971d-4f02e0fadfbb owner=Sue Smith into widgets
+[2025-10-19 22:48:16,145] INFO hw6-consumer - Consumed request key=1760927194826 requestId=7679dab9-d2f4-4037-ad3d-9dab7cc71be7
+[2025-10-19 22:48:16,163] INFO hw6-consumer - PutItem widgetId=181467d2-3d96-4b6c-a40c-3818dd05363d owner=Henry Hops into widgets
+[2025-10-19 22:48:16,255] INFO hw6-consumer - Consumed request key=1760927194874 requestId=d7625b32-75fe-427c-b410-07bccb4bf7fa
+[2025-10-19 22:48:16,272] INFO hw6-consumer - PutItem widgetId=7a48d177-fa19-4c52-80ae-a1f3280d05ae owner=Henry Hops into widgets
+[2025-10-19 22:48:16,388] INFO hw6-consumer - Consumed request key=1760927194919 requestId=fa95874e-68b3-4e3d-af9a-38645c0c02c8
+[2025-10-19 22:48:16,388] WARNING hw6-consumer - update not implemented, skipping requestId=fa95874e-68b3-4e3d-af9a-38645c0c02c8
+[2025-10-19 22:48:16,484] INFO hw6-consumer - Consumed request key=1760927195070 requestId=8233b0ff-1ac0-4e0a-b36d-3dc2a3966093
+[2025-10-19 22:48:16,485] WARNING hw6-consumer - update not implemented, skipping requestId=8233b0ff-1ac0-4e0a-b36d-3dc2a3966093
+[2025-10-19 22:48:16,655] INFO hw6-consumer - Consumed request key=1760927195215 requestId=642825fe-2f0a-475d-805e-14407aaa7ead
+[2025-10-19 22:48:16,655] WARNING hw6-consumer - update not implemented, skipping requestId=642825fe-2f0a-475d-805e-14407aaa7ead
+[2025-10-19 22:48:16,744] INFO hw6-consumer - Consumed request key=1760927195360 requestId=fa089fd8-6979-4369-9404-dadba7cca4af
+[2025-10-19 22:48:16,759] INFO hw6-consumer - PutItem widgetId=e1ba679a-ac7e-4e50-9afb-f88dedfb25c9 owner=Mary Matthews into widgets
+[2025-10-19 22:48:16,875] INFO hw6-consumer - Consumed request key=1760927195415 requestId=db18919c-7176-4b50-8ab5-14b665a9a05a
+[2025-10-19 22:48:16,876] WARNING hw6-consumer - update not implemented, skipping requestId=db18919c-7176-4b50-8ab5-14b665a9a05a
+[2025-10-19 22:48:16,997] INFO hw6-consumer - Consumed request key=1760927195562 requestId=1b571847-807c-4343-88ca-3d5ede38b4e4
+[2025-10-19 22:48:16,997] WARNING hw6-consumer - update not implemented, skipping requestId=1b571847-807c-4343-88ca-3d5ede38b4e4
+[2025-10-19 22:48:17,095] INFO hw6-consumer - Consumed request key=1760927195717 requestId=02c62a7c-3ae2-4ec1-ab07-69190649dca0
+[2025-10-19 22:48:17,114] INFO hw6-consumer - PutItem widgetId=55965694-5d8c-44db-b895-53395e74a977 owner=John Jones into widgets
+[2025-10-19 22:48:17,235] INFO hw6-consumer - Consumed request key=1760927195775 requestId=ce626128-c574-496c-bdbd-64293e6efcf9
+[2025-10-19 22:48:17,256] INFO hw6-consumer - PutItem widgetId=68407c61-4071-411f-abb0-98410c808daa owner=John Jones into widgets
+[2025-10-19 22:48:17,363] INFO hw6-consumer - Consumed request key=1760927195817 requestId=ffd0ab96-96ee-42f6-91ff-62e8a50823ae
+[2025-10-19 22:48:17,383] INFO hw6-consumer - PutItem widgetId=c748eca8-3341-4703-8eb9-bfdba6a85887 owner=John Jones into widgets
+[2025-10-19 22:48:17,511] INFO hw6-consumer - Consumed request key=1760927195857 requestId=ea86d114-97e0-4cff-b714-e8cafc03ef42
+[2025-10-19 22:48:17,511] WARNING hw6-consumer - update not implemented, skipping requestId=ea86d114-97e0-4cff-b714-e8cafc03ef42
+[2025-10-19 22:48:17,600] INFO hw6-consumer - Consumed request key=1760927195999 requestId=dc6b9446-9a76-4356-85f0-2036e22578e7
+[2025-10-19 22:48:17,619] INFO hw6-consumer - PutItem widgetId=23cb2a3a-b36b-40bb-ae43-00b3ac1e7a31 owner=Sue Smith into widgets
+[2025-10-19 22:48:17,733] INFO hw6-consumer - Consumed request key=1760927196069 requestId=143e066f-a76e-4c4a-8e37-e786eb69c647
+[2025-10-19 22:48:17,733] WARNING hw6-consumer - update not implemented, skipping requestId=143e066f-a76e-4c4a-8e37-e786eb69c647
+[2025-10-19 22:48:17,860] INFO hw6-consumer - Consumed request key=1760927196215 requestId=9a8aa5a4-7294-4aed-9315-ad573c3c3103
+[2025-10-19 22:48:17,861] WARNING hw6-consumer - update not implemented, skipping requestId=9a8aa5a4-7294-4aed-9315-ad573c3c3103
+[2025-10-19 22:48:17,954] INFO hw6-consumer - Consumed request key=1760927196364 requestId=e829982a-6e45-4807-8a0c-b9298d870fe0
+[2025-10-19 22:48:17,973] INFO hw6-consumer - PutItem widgetId=b3e9f6af-c31f-4eeb-abe0-17cb2be551c9 owner=Henry Hops into widgets
+[2025-10-19 22:48:18,109] INFO hw6-consumer - Consumed request key=1760927196414 requestId=48b3527e-d162-408f-91a1-fb25117d3e8a
+[2025-10-19 22:48:18,110] WARNING hw6-consumer - update not implemented, skipping requestId=48b3527e-d162-408f-91a1-fb25117d3e8a
+[2025-10-19 22:48:18,213] INFO hw6-consumer - Consumed request key=1760927196560 requestId=ffe8cc9f-3770-4fb8-94de-e38ece038b5e
+[2025-10-19 22:48:18,233] INFO hw6-consumer - PutItem widgetId=418e3c41-6915-4843-94ed-d008606daa82 owner=John Jones into widgets
+[2025-10-19 22:48:18,336] INFO hw6-consumer - Consumed request key=1760927196604 requestId=37ee6489-5094-44d4-932e-20ff099b4657
+[2025-10-19 22:48:18,364] INFO hw6-consumer - PutItem widgetId=32fe0733-6014-443b-9300-581ae41c40b6 owner=Sue Smith into widgets
+[2025-10-19 22:48:18,471] INFO hw6-consumer - Consumed request key=1760927196651 requestId=1e477dc6-0d00-4b71-9c62-b4afd742f721
+[2025-10-19 22:48:18,472] WARNING hw6-consumer - update not implemented, skipping requestId=1e477dc6-0d00-4b71-9c62-b4afd742f721
+[2025-10-19 22:48:18,558] INFO hw6-consumer - Consumed request key=1760927196828 requestId=9c04bbd9-da53-4a24-bb3f-fd1b7888f9d6
+[2025-10-19 22:48:18,559] WARNING hw6-consumer - delete not implemented, skipping requestId=9c04bbd9-da53-4a24-bb3f-fd1b7888f9d6
+[2025-10-19 22:48:18,764] INFO hw6-consumer - Consumed request key=1760927196972 requestId=ab6dd105-7d44-4adb-8ca5-e6f9e299ee7f
+[2025-10-19 22:48:18,780] INFO hw6-consumer - PutItem widgetId=8b8661ef-414f-4c48-8d6b-d3b0f06b8cca owner=Mary Matthews into widgets
+[2025-10-19 22:48:18,905] INFO hw6-consumer - Consumed request key=1760927197027 requestId=bf45f69c-94ca-4d71-8ee9-face898ea3ce
+[2025-10-19 22:48:18,924] INFO hw6-consumer - PutItem widgetId=336819d1-552c-4d51-a053-9658cf07db58 owner=Henry Hops into widgets
+[2025-10-19 22:48:19,057] INFO hw6-consumer - Consumed request key=1760927197082 requestId=1965996c-2fa2-4ada-8cd9-38899286a15a
+[2025-10-19 22:48:19,079] INFO hw6-consumer - PutItem widgetId=ef154900-3e8b-40a4-81d1-9147da8ac1d9 owner=Sue Smith into widgets
+[2025-10-19 22:48:19,177] INFO hw6-consumer - Consumed request key=1760927197130 requestId=d904cd72-770f-4add-b8cb-d1651dd531f1
+[2025-10-19 22:48:19,196] INFO hw6-consumer - PutItem widgetId=5193d002-940c-43b0-a5ee-837d09d525e7 owner=John Jones into widgets
+[2025-10-19 22:48:19,305] INFO hw6-consumer - Consumed request key=1760927197179 requestId=9b553904-e117-4776-b90a-9615ec1dbf7a
+[2025-10-19 22:48:19,305] WARNING hw6-consumer - update not implemented, skipping requestId=9b553904-e117-4776-b90a-9615ec1dbf7a
+[2025-10-19 22:48:19,418] INFO hw6-consumer - Consumed request key=1760927197324 requestId=b1edc390-b8fb-4349-b5da-5a9f464d6e86
+[2025-10-19 22:48:19,418] WARNING hw6-consumer - update not implemented, skipping requestId=b1edc390-b8fb-4349-b5da-5a9f464d6e86
+[2025-10-19 22:48:19,506] INFO hw6-consumer - Consumed request key=1760927197487 requestId=2a607f15-0cff-45a7-aebf-36daede3a9fb
+[2025-10-19 22:48:19,507] WARNING hw6-consumer - delete not implemented, skipping requestId=2a607f15-0cff-45a7-aebf-36daede3a9fb
+[2025-10-19 22:48:19,595] INFO hw6-consumer - Consumed request key=1760927197632 requestId=1159de81-ed5e-4fbb-920d-4acd297eae82
+[2025-10-19 22:48:19,596] WARNING hw6-consumer - delete not implemented, skipping requestId=1159de81-ed5e-4fbb-920d-4acd297eae82
+[2025-10-19 22:49:33,551] INFO hw6-consumer - Shutting down (Ctrl-C)
