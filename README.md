@@ -1,4 +1,6 @@
 # CS5270 AWS HW
+Always update `~/.aws/credentials` with new variables when starting up new lab session 
+
 
 ## Buckets
 bucket 1 = usu-cs5270-sky-dist
